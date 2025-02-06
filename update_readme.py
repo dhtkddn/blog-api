@@ -1,8 +1,9 @@
 import os
 import urllib.request
 import json
+from datetime import datetime
 
-# 네이버 API 인증 정보 (본인의 정보로 변경 필요)
+# 네이버 API 인증 정보 (자신의 정보로 변경)
 client_id = "0YFjpdAFkR_fisp_my1n"
 client_secret = "_kDkw7KWaN"
 
@@ -43,21 +44,37 @@ for tag in hashtags:
     results[tag] = search_naver_blog(tag)
 
 # README.md 업데이트
-readme_content = """# 네이버 블로그 실시간 검색 결과
+readme_content = """# 🚀 실시간 네이버 블로그 검색 결과
 
-이 페이지는 GitHub Actions에 의해 자동으로 업데이트됩니다. (5분마다 갱신)
+이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-"""
+마지막 업데이트: **📅 {}**
+
+---
+
+## 🔍 검색 대상 해시태그
+- #우리FIS아카데미
+- #우리FISA
+- #AI엔지니어링
+- #K디지털트레이닝
+- #우리에프아이에스
+- #글로벌소프트웨어캠퍼스
+
+---
+
+## 📝 최근 블로그 검색 결과
+""".format(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
 for tag, data in results.items():
     if data:
-        readme_content += f"\n## {tag} 검색 결과\n"
+        readme_content += f"\n### 🔹 {tag} 검색 결과\n"
         for item in data['items']:
             readme_content += f"- [{item['title']}]({item['link']})\n"
     else:
-        readme_content += f"\n## {tag} 검색 결과 없음\n"
+        readme_content += f"\n### 🔹 {tag} 검색 결과 없음\n"
 
-# 파일 저장
+# README.md 파일 저장
 with open("README.md", "w", encoding="utf-8") as file:
     file.write(readme_content)
 
+print("✅ README.md 업데이트 완료!")
