@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-02-19 02:54:18**
+마지막 업데이트: **📅 2025-02-19 03:12:37**
 
 ---
 
@@ -29,9 +29,9 @@
 - [글로벌소프트웨어캠퍼스 <b>우리FISA</b> IT교육 비전공자도 취직 가자](https://blog.naver.com/1004jungbin/223650351206)
 
 ### 🔹 #AI엔지니어링 검색 결과
+- [대구<b>AI엔지니어링</b>학원 미래 기술 여정](https://blog.naver.com/sbs_design/223765754119)
 - [<b>AI</b>포토샵 프롬프트 <b>엔지니어링</b> 활용 방법](https://blog.naver.com/thfk8158/223732196608)
 - [[<b>AI엔지니어링</b>과] 취업후기 3기 수료생 황 ★ 설](https://blog.naver.com/daegukopo/223471879426)
-- [<b>AI 엔지니어링</b> - 파인튜닝(Fine-tuning, 미세조정) 기초... ](https://blog.naver.com/meta-mind/223679640941)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 교육 신청 방법(국민내일배움카드 이용)](https://blog.naver.com/ichbong/223748873634)
