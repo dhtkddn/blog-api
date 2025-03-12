@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-03-12 01:12:03**
+마지막 업데이트: **📅 2025-03-12 02:34:23**
 
 ---
 
@@ -19,9 +19,9 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
-- [[교육 대외활동] KDT [<b>우리FIS 아카데미</b>] 4기](https://blog.naver.com/contest_korea/223647799048)
 - [[글로벌소프트웨어캠퍼스] <b>우리FIS 아카데미</b> 4기 모집](https://blog.naver.com/mijeong_park/223635020250)
 - [<b>우리FIS 아카데미</b> 4기 지원 및 합격 후기](https://blog.naver.com/erika0809/223666793504)
+- [<b>우리FIS아카데미</b> 면접실전전략 강의](https://blog.naver.com/career_move/223728814805)
 
 ### 🔹 #우리FISA 검색 결과
 - [글로벌소프트웨어캠퍼스 <b>우리FISA</b> 4기모집 소식](https://blog.naver.com/moa-c/223652163662)
@@ -39,9 +39,9 @@
 - [<b>k디지털트레이닝</b> 국비지원 취업 준비까지](https://blog.naver.com/i_misskorea/223489593029)
 
 ### 🔹 #우리에프아이에스 검색 결과
-- [<b>우리에프아이에스</b> 신입사원 자기소개서 자료 다운로드](https://blog.naver.com/ajsy357/223673314110)
-- [<b>우리에프아이에스</b> 보안솔루션 운영 신입 채용 면접꿀팁](https://blog.naver.com/onair_speech/223731537801)
 - [광주은행, <b>우리에프아이에스</b> 채용 우대 자격증과 비전공자... ](https://blog.naver.com/giveapeck/223621025743)
+- [클로잇·<b>우리에프아이에스</b>, 금융 클라우드 전환 협력 ‘맞손’](https://blog.naver.com/bon-media/223651852223)
+- [<b>우리에프아이에스</b> 신입사원 자기소개서 자료 다운로드](https://blog.naver.com/ajsy357/223673314110)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [<b>글로벌소프트웨어캠퍼스</b>에서 교육 받아야 하는 이유](https://blog.naver.com/tnqls3019/223040613743)
