@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-04-06 14:00:17**
+마지막 업데이트: **📅 2025-04-06 14:15:46**
 
 ---
 
@@ -24,9 +24,9 @@
 - [양성, <b>우리FIS 아카데미</b>, MSCI ESG평가... ](https://blog.naver.com/angeldia/223506581360)
 
 ### 🔹 #우리FISA 검색 결과
+- [<b>우리FISA</b> AI엔지니어링 과정 13주 차 기록](https://blog.naver.com/erika0809/223824254193)
 - [글로벌소프트웨어캠퍼스 <b>우리FISA</b> 4기모집 소식](https://blog.naver.com/moa-c/223652163662)
 - [비전공자도 가능한 <b>우리</b>금융 IT교육 <b>우리FISA</b>4기 모집중 정보... ](https://blog.naver.com/ndu2002/223658094168)
-- [글로벌소프트웨어캠퍼스 <b>우리FISA</b> IT교육 비전공자도 취직 가자](https://blog.naver.com/1004jungbin/223650351206)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [프롬프트 <b>엔지니어링</b> <b>AI</b>,챗GPT 디테일한 커리큘럼](https://blog.naver.com/apple516/223786155486)
