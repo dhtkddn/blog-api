@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-04-19 22:00:09**
+마지막 업데이트: **📅 2025-04-19 22:16:35**
 
 ---
 
@@ -21,7 +21,7 @@
 ### 🔹 #우리FIS아카데미 검색 결과
 - [[글로벌소프트웨어캠퍼스] <b>우리FIS 아카데미</b> 4기 모집](https://blog.naver.com/mijeong_park/223635020250)
 - [양성, <b>우리FIS 아카데미</b>, MSCI ESG평가... ](https://blog.naver.com/angeldia/223506581360)
-- [7점인 KDT 과정, 클라우드 금융IT 훈련 &lt;<b>우리FIS 아카데미</b>... ](https://blog.naver.com/kcci_teammate/223820913278)
+- [<b>우리FIS 아카데미</b> 4기 지원 및 합격 후기](https://blog.naver.com/erika0809/223666793504)
 
 ### 🔹 #우리FISA 검색 결과
 - [<b>우리FISA</b> AI엔지니어링 과정 13주 차 기록](https://blog.naver.com/erika0809/223824254193)
