@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-04-20 23:56:33**
+마지막 업데이트: **📅 2025-04-21 00:55:49**
 
 ---
 
@@ -19,9 +19,9 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
-- [[무료교육] <b>우리</b>에프아이에스 : <b>우리FIS 아카데미</b> 5기 (~](https://blog.naver.com/119jobcenter/223841069627)
 - [[글로벌소프트웨어캠퍼스] <b>우리FIS 아카데미</b> 4기 모집](https://blog.naver.com/mijeong_park/223635020250)
 - [양성, <b>우리FIS 아카데미</b>, MSCI ESG평가... ](https://blog.naver.com/angeldia/223506581360)
+- [<b>우리FIS 아카데미</b> 4기 지원 및 합격 후기](https://blog.naver.com/erika0809/223666793504)
 
 ### 🔹 #우리FISA 검색 결과
 - [<b>우리FISA</b> AI엔지니어링 과정 13주 차 기록](https://blog.naver.com/erika0809/223824254193)
