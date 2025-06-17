@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-06-17 08:27:44**
+마지막 업데이트: **📅 2025-06-17 08:48:02**
 
 ---
 
@@ -24,8 +24,8 @@
 - [<b>우리FIS아카데미</b> 면접실전전략 강의](https://blog.naver.com/career_move/223728814805)
 
 ### 🔹 #우리FISA 검색 결과
-- [<b>우리FISA</b> AI 엔지니어링 과정 23주 차 기록](https://blog.naver.com/erika0809/223899950801)
 - [<b>우리 FISA</b> 5기 클라우드 서비스 개발 합격 후기](https://blog.naver.com/miyg2003/223895882153)
+- [<b>우리FISA</b> AI 엔지니어링 과정 23주 차 기록](https://blog.naver.com/erika0809/223899950801)
 - [[<b>우리FISA</b> 5기] AI 엔지니어링 과정 0주차](https://blog.naver.com/tobying/223891052906)
 
 ### 🔹 #AI엔지니어링 검색 결과
