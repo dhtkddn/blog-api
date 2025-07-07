@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-07-07 09:55:11**
+마지막 업데이트: **📅 2025-07-07 10:09:39**
 
 ---
 
@@ -31,7 +31,7 @@
 ### 🔹 #AI엔지니어링 검색 결과
 - [여전한 재택근무 그리고 <b>AI 엔지니어링</b> 과정 5개월차](https://blog.naver.com/dalhauk/223917467916)
 - [프롬프트 <b>엔지니어링</b> <b>AI</b>,챗GPT 디테일한 커리큘럼](https://blog.naver.com/apple516/223786155486)
-- [<b>AI</b> SW <b>엔지니어링</b> : 더 빠르게 품질확보 하며 만드는 5가지 전략](https://blog.naver.com/sanjangboarder/223882345610)
+- [<b>AI</b>패션브랜드 영상-<b>AI</b>길들이기 고도의 프롬프트 <b>엔지니어링</b>2](https://blog.naver.com/uniquehanceo/223925119543)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 국비지원 교육 취업 준비 시작](https://blog.naver.com/jasonmoondistri/223919646840)
