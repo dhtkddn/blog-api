@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-07-12 12:31:46**
+마지막 업데이트: **📅 2025-07-12 13:05:07**
 
 ---
 
@@ -29,9 +29,9 @@
 - [비전공자도 가능한 <b>우리</b>금융 IT교육 <b>우리FISA</b>4기 모집중 정보... ](https://blog.naver.com/ndu2002/223658094168)
 
 ### 🔹 #AI엔지니어링 검색 결과
+- [<b>AI 엔지니어링</b> 경력을 쌓기 위한 10가지 GitHub 리포지토리](https://blog.naver.com/cyberpass/223931107247)
 - [프롬프트 <b>엔지니어링</b> <b>AI</b>,챗GPT 디테일한 커리큘럼](https://blog.naver.com/apple516/223786155486)
 - [여전한 재택근무 그리고 <b>AI 엔지니어링</b> 과정 5개월차](https://blog.naver.com/dalhauk/223917467916)
-- [SWE-1-Lite API 개발자 <b>엔지니어링</b> <b>AI</b> 코딩 모델 공개](https://kwangho.tistory.com/531553)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 국비지원 무료 교육 취업까지](https://blog.naver.com/surfingtaiji/223928399601)
