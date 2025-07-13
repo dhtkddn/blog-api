@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-07-13 23:33:11**
+마지막 업데이트: **📅 2025-07-13 23:45:09**
 
 ---
 
@@ -21,7 +21,7 @@
 ### 🔹 #우리FIS아카데미 검색 결과
 - [<b>우리FIS 아카데미</b> 5기 / AI엔지니어링 2주차 학습일지](https://blog.naver.com/tlsehdgh4162/223932387802)
 - [[<b>우리FIS아카데미</b> 5기] 클라우드 엔지니어링 과정 합격 후기](https://blog.naver.com/riverchoi2523/223889627584)
-- [[<b>우리FIS 아카데미</b> 5기] AI 엔지니어링 과정 0주차 기록](https://blog.naver.com/gassaengdochi/223923115602)
+- [[<b>우리FIS 아카데미</b> 5기] AI 엔지니어링 과정 2주차 기록](https://blog.naver.com/gassaengdochi/223932649662)
 
 ### 🔹 #우리FISA 검색 결과
 - [<b>우리FISA</b> AI 엔지니어링 과정 23주 차 기록](https://blog.naver.com/erika0809/223899950801)
