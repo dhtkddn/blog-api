@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-08-17 08:58:01**
+마지막 업데이트: **📅 2025-08-17 09:13:58**
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### 🔹 #우리FISA 검색 결과
 - [<b>우리FISA</b> 5기 AI엔지니어링 6주차 학습일지](https://blog.naver.com/tlsehdgh4162/223965917579)
+- [[<b>우리FISA</b> 5기] AI 엔지니어링 7주차](https://blog.naver.com/tobying/223973354728)
 - [<b>우리FISA</b> AI 엔지니어링 과정 23주 차 기록](https://blog.naver.com/erika0809/223899950801)
-- [[<b>우리FISA</b> 5기] AI 엔지니어링 0주차](https://blog.naver.com/tobying/223891052906)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [국비지원 <b>AI</b> 마스터 과정 후기 (의사가 <b>AI 엔지니어링</b>... ](https://blog.naver.com/babydreamer5/223970901250)
