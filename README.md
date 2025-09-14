@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-09-14 15:39:02**
+마지막 업데이트: **📅 2025-09-14 15:44:19**
 
 ---
 
@@ -24,8 +24,8 @@
 - [[글로벌소프트웨어캠퍼스] <b>우리FIS 아카데미</b> 4기 모집](https://blog.naver.com/mijeong_park/223635020250)
 
 ### 🔹 #우리FISA 검색 결과
+- [[<b>우리FISA</b> 5기] AI 엔지니어링 11주차](https://blog.naver.com/tobying/224007995429)
 - [<b>우리FISA</b> 5기 AI엔지니어링 6주차 학습일지](https://blog.naver.com/tlsehdgh4162/223965917579)
-- [[<b>우리FISA</b> 5기] AI 엔지니어링 7주차](https://blog.naver.com/tobying/223973354728)
 - [비전공자도 가능한 <b>우리</b>금융 IT교육 <b>우리FISA</b>4기 모집중 정보... ](https://blog.naver.com/ndu2002/223658094168)
 
 ### 🔹 #AI엔지니어링 검색 결과
