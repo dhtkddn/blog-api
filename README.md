@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-10-24 06:23:23**
+마지막 업데이트: **📅 2025-10-24 06:45:13**
 
 ---
 
@@ -20,8 +20,8 @@
 
 ### 🔹 #우리FIS아카데미 검색 결과
 - [[<b>우리</b>금융그룹] KDT [<b>우리FIS 아카데미</b>] 6기 모집 중 (~11... ](https://blog.naver.com/119jobcenter/224047044272)
+- [고용노동부X글로벌소프트웨어캠퍼스 &lt;<b>우리FIS 아카데미</b> 6기... ](https://blog.naver.com/youth_mapo/224052278137)
 - [<b>우리FIS 아카데미</b> 9월 현직자 런치톡 참여 후기](https://blog.naver.com/tlsehdgh4162/224020531411)
-- [<b>우리FIS 아카데미</b> 클라우드 서비스 개발 | 런치톡 후기](https://blog.naver.com/miyg2003/224014360352)
 
 ### 🔹 #우리FISA 검색 결과
 - [[<b>우리FISA</b> 5기] 현장 멘토링 후기](https://blog.naver.com/tobying/224038985246)
@@ -44,6 +44,6 @@
 - [광주은행, <b>우리에프아이에스</b> 채용 우대 자격증과 비전공자... ](https://blog.naver.com/giveapeck/223621025743)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
+- [고용노동부X<b>글로벌소프트웨어캠퍼스</b> &lt;우리FIS 아카데미 6기... ](https://blog.naver.com/youth_mapo/224052278137)
 - [<b>글로벌소프트웨어캠퍼스</b> 우리금융그룹 우리FISA4기모집중](https://blog.naver.com/dm3676/223653660164)
 - [<b>글로벌소프트웨어캠퍼스</b> 우리FISA 4기 정보 총정리](https://blog.naver.com/wuthy/223614821491)
-- [<b>글로벌소프트웨어캠퍼스</b> 우리FISA 아카데미 4기 모집](https://blog.naver.com/wnsghk856/223652388747)
