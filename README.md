@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-10-25 20:55:38**
+마지막 업데이트: **📅 2025-10-25 21:07:23**
 
 ---
 
@@ -24,7 +24,7 @@
 - [<b>우리FIS 아카데미</b> 9월 현직자 런치톡 참여 후기](https://blog.naver.com/tlsehdgh4162/224020531411)
 
 ### 🔹 #우리FISA 검색 결과
-- [[<b>우리FISA</b> 5기] 현장 멘토링 후기](https://blog.naver.com/tobying/224038985246)
+- [[<b>우리FISA</b> 5기] AI 엔지니어링 16주차](https://blog.naver.com/tobying/224053921023)
 - [<b>우리FISA</b> 5기 AI엔지니어링 6주차 학습일지](https://blog.naver.com/tlsehdgh4162/223965917579)
 - [비전공자도 가능한 <b>우리</b>금융 IT교육 <b>우리FISA</b>4기 모집중 정보... ](https://blog.naver.com/ndu2002/223658094168)
 
