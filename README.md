@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-11-30 14:40:26**
+마지막 업데이트: **📅 2025-11-30 14:46:11**
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🔹 #우리FISA 검색 결과
 - [<b>우리FISA</b> 시리즈를 마치며...](https://blog.naver.com/tlsehdgh4162/224071632404)
 - [[<b>우리FISA</b> 5기] AI 엔지니어링 16주차](https://blog.naver.com/tobying/224053921023)
-- [비전공자도 가능한 <b>우리</b>금융 IT교육 <b>우리FISA</b>4기 모집중 정보... ](https://blog.naver.com/ndu2002/223658094168)
+- [[<b>우리FISA</b>] AI엔지니어링 21주차](https://blog.naver.com/1120bear/224093524987)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [글로벌 인프라 <b>엔지니어링</b> 대기업인 Aecom은 노르웨이 <b>AI</b>... ](https://blog.naver.com/gisandpython/224090507480)
