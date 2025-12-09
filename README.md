@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-12-09 05:16:41**
+마지막 업데이트: **📅 2025-12-09 05:36:07**
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🔹 #우리FISA 검색 결과
 - [<b>우리FISA</b> 시리즈를 마치며...](https://blog.naver.com/tlsehdgh4162/224071632404)
 - [[<b>우리FISA</b> 5기] AI 엔지니어링 16주차](https://blog.naver.com/tobying/224053921023)
-- [[<b>우리FISA</b>] AI엔지니어링 21주차](https://blog.naver.com/1120bear/224093524987)
+- [[<b>우리 FISA</b>] 12월 런치톡 후기(AI 엔지니어링)](https://blog.naver.com/bee_ni_ing/224100286718)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [1장. <b>AI 엔지니어링</b>의 부상, 파운데이션 모델 활용 사례#02](https://blog.naver.com/emblim98/224071866382)
