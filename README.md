@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2025-12-13 03:33:55**
+마지막 업데이트: **📅 2025-12-13 04:00:01**
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🔹 #우리FISA 검색 결과
 - [<b>우리FISA</b> 시리즈를 마치며...](https://blog.naver.com/tlsehdgh4162/224071632404)
 - [[<b>우리FISA</b> 5기] AI 엔지니어링 16주차](https://blog.naver.com/tobying/224053921023)
-- [[<b>우리 FISA</b>] 12월 런치톡 후기(AI 엔지니어링)](https://blog.naver.com/bee_ni_ing/224100286718)
+- [<b>우리</b>FIS, 금융 IT 전문가 양성 산실 ‘<b>우리FISA</b>’ 5기 수료](https://blog.naver.com/ceo009/224108256837)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [챗gpt vs Gemini 프롬프트 <b>엔지니어링</b> <b>AI</b> 프롬프트 작성 6... ](https://blog.naver.com/reaa1213/224104133912)
