@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-01-13 14:58:13**
+마지막 업데이트: **📅 2026-01-13 15:19:32**
 
 ---
 
@@ -19,9 +19,9 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
+- [[<b>우리FIS 아카데미</b>_<b>우리</b>FISA_클라우드 서비스 개발_2주차 회고]](https://blog.naver.com/juho2075/224142050946)
 - [<b>우리FIS 아카데미</b>(<b>우리</b>FISA) AI 엔지니어링 2주차 회고](https://blog.naver.com/whgp1127/224142925784)
 - [<b>우리FIS 아카데미</b> 5기 / AI엔지니어링 2주차 학습일지](https://blog.naver.com/tlsehdgh4162/223932387802)
-- [<b>우리FIS 아카데미</b> (FISA) AI 엔지니어링 학습일지 2주차](https://blog.naver.com/mynd33/224142524755)
 
 ### 🔹 #우리FISA 검색 결과
 - [<b>우리 FISA</b> 합격 그리고 SAFFY 15기 추가합격](https://blog.naver.com/heyminan/224134231212)
@@ -34,9 +34,9 @@
 - [[한빛미디어] <b>AI 엔지니어링</b>](https://blog.naver.com/dhan0213/224117843739)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [<b>k</b>-<b>디지털 트레이딩</b>](https://blog.naver.com/hijob0612/224106311704)
-- [[길우<b>트레이딩</b>] 반사광 측정용 적외선 온도계 <b>디지털</b> 센서... ](https://blog.naver.com/gilwoo1984/224131283264)
-- [K<b>트레이딩</b> 사기 거래소 사칭 리딩방 피해 대응을 하기 위해](https://blog.naver.com/jhandgirlo17/223917932210)
+- [AI 국비지원 교육 <b>K디지털트레이닝</b>으로 배우고 취업까지](https://blog.naver.com/lmwu123/224127755644)
+- [<b>k디지털트레이닝</b> 취준생이 꼭 알아야 할 무료 교육 혜택](https://blog.naver.com/merryjin11022/224113341966)
+- [<b>K디지털트레이닝</b> 개발자, 인공지능, 클라우드 교육 기관](https://blog.naver.com/mala_zinebyczp/224139003068)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [클로잇-<b>우리에프아이에스</b>, 금융 클라우드 전환 협력 MOU](https://blog.naver.com/cengroup-pr/223753537100)
