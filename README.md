@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-03-22 17:11:22**
+마지막 업데이트: **📅 2026-03-22 17:38:41**
 
 ---
 
@@ -30,8 +30,8 @@
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [프롬프트<b>엔지니어링</b>, <b>AI</b>를 잘 쓰는 사람들의 질문 기술](https://blog.naver.com/himediacokr/224212705033)
-- [<b>AI</b> 프롬프트 <b>엔지니어링</b> 기초! ChatGPT 강의 핵심 요약](https://blog.naver.com/tjgus2060/224220619811)
 - [챗gpt vs Gemini 프롬프트 <b>엔지니어링</b> <b>AI</b> 프롬프트 작성 6... ](https://blog.naver.com/reaa1213/224104133912)
+- [<b>AI</b> 프롬프트 <b>엔지니어링</b> 기초! ChatGPT 강의 핵심 요약](https://blog.naver.com/tjgus2060/224220619811)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 국비지원 교육으로 부담없이](https://blog.naver.com/oldskill/224212680106)
