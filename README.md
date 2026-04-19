@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-04-19 13:37:23**
+마지막 업데이트: **📅 2026-04-19 14:21:26**
 
 ---
 
@@ -19,14 +19,14 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
+- [<b>우리FIS 아카데미</b>(<b>우리</b>FISA) AI 엔지니어링 16주차 회고](https://blog.naver.com/whgp1127/224257983320)
 - [<b>우리FIS 아카데미</b> 5기 / AI엔지니어링 2주차 학습일지](https://blog.naver.com/tlsehdgh4162/223932387802)
-- [<b>우리FIS 아카데미</b>(<b>우리</b>FISA) AI 엔지니어링 15주차 회고](https://blog.naver.com/whgp1127/224245811122)
 - [[<b>우리FIS 아카데미</b>_<b>우리</b>FISA_클라우드 서비스 개발_16주차... ](https://blog.naver.com/juho2075/224257205107)
 
 ### 🔹 #우리FISA 검색 결과
 - [<b>우리FISA</b> 시리즈를 마치며...](https://blog.naver.com/tlsehdgh4162/224071632404)
 - [<b>우리</b>FIS, 금융 IT 전문가 양성 산실 ‘<b>우리FISA</b>’ 5기 수료](https://blog.naver.com/ceo009/224108256837)
-- [비전공자도 가능한 <b>우리</b>금융 IT교육 <b>우리FISA</b>4기 모집중 정보... ](https://blog.naver.com/ndu2002/223658094168)
+- [<b>우리</b>FIS 아카데미(<b>우리FISA</b>) AI 엔지니어링 16주차 회고](https://blog.naver.com/whgp1127/224257983320)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [하네스 <b>엔지니어링</b>이란? <b>AI</b> 에이전트 실수 줄이는 핵심 개념](https://blog.naver.com/ahnhw131/224256107522)
