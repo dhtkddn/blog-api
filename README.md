@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-04-21 15:46:11**
+마지막 업데이트: **📅 2026-04-21 16:40:55**
 
 ---
 
@@ -24,9 +24,9 @@
 - [[<b>우리FIS 아카데미</b>_<b>우리</b>FISA_클라우드 서비스 개발_16주차... ](https://blog.naver.com/juho2075/224257205107)
 
 ### 🔹 #우리FISA 검색 결과
-- [[<b>FIS</b> International 유치부] <b>우리</b>반 친구들과 함께하는... ](https://blog.naver.com/fisjeongja/224231694768)
-- [<b>우리FIS</b> AI엔지니어링 13주차 학습일지](https://blog.naver.com/tlsehdgh4162/224024483964)
-- [[<b>우리FIS</b> 아카데미_<b>우리</b>FISA_클라우드 서비스 개발_16주차... ](https://blog.naver.com/juho2075/224257205107)
+- [<b>우리FISA</b> 시리즈를 마치며...](https://blog.naver.com/tlsehdgh4162/224071632404)
+- [<b>우리</b>FIS, 금융 IT 전문가 양성 산실 ‘<b>우리FISA</b>’ 5기 수료](https://blog.naver.com/ceo009/224108256837)
+- [<b>우리</b>FIS 아카데미(<b>우리FISA</b>) AI 엔지니어링 16주차 회고](https://blog.naver.com/whgp1127/224257983320)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [하네스 <b>엔지니어링</b>이란? <b>AI</b> 에이전트 실수 줄이는 핵심 개념](https://blog.naver.com/ahnhw131/224256107522)
