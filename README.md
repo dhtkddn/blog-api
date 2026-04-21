@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-04-21 14:21:36**
+마지막 업데이트: **📅 2026-04-21 15:46:11**
 
 ---
 
@@ -24,9 +24,9 @@
 - [[<b>우리FIS 아카데미</b>_<b>우리</b>FISA_클라우드 서비스 개발_16주차... ](https://blog.naver.com/juho2075/224257205107)
 
 ### 🔹 #우리FISA 검색 결과
-- [<b>우리FISA</b> 시리즈를 마치며...](https://blog.naver.com/tlsehdgh4162/224071632404)
-- [<b>우리</b>FIS, 금융 IT 전문가 양성 산실 ‘<b>우리FISA</b>’ 5기 수료](https://blog.naver.com/ceo009/224108256837)
-- [<b>우리</b>FIS 아카데미(<b>우리FISA</b>) AI 엔지니어링 16주차 회고](https://blog.naver.com/whgp1127/224257983320)
+- [[<b>FIS</b> International 유치부] <b>우리</b>반 친구들과 함께하는... ](https://blog.naver.com/fisjeongja/224231694768)
+- [<b>우리FIS</b> AI엔지니어링 13주차 학습일지](https://blog.naver.com/tlsehdgh4162/224024483964)
+- [[<b>우리FIS</b> 아카데미_<b>우리</b>FISA_클라우드 서비스 개발_16주차... ](https://blog.naver.com/juho2075/224257205107)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [하네스 <b>엔지니어링</b>이란? <b>AI</b> 에이전트 실수 줄이는 핵심 개념](https://blog.naver.com/ahnhw131/224256107522)
@@ -34,9 +34,9 @@
 - [챗gpt vs Gemini 프롬프트 <b>엔지니어링</b> <b>AI</b> 프롬프트 작성 6... ](https://blog.naver.com/reaa1213/224104133912)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [<b>k</b>-<b>디지털 트레이딩</b>](https://blog.naver.com/hijob0612/224106311704)
-- [K<b>트레이딩</b> 사기 거래소 사칭 리딩방 피해 대응을 하기 위해](https://blog.naver.com/jhandgirlo17/223917932210)
-- [케이리그는 하나다 2024 K리그 파니니 <b>트레이딩</b> 카드 축구... ](https://blog.naver.com/chewie121417/223486671708)
+- [<b>K디지털트레이닝</b> 국비지원 교육으로 부담없이](https://blog.naver.com/oldskill/224212680106)
+- [<b>K디지털트레이닝</b> 취업 및 뜻 각종 정보 공유](https://blog.naver.com/urmyver/224228903203)
+- [<b>K디지털트레이닝</b> 국비지원 교육으로 배우고 취업 준비까지](https://blog.naver.com/season368/224147579630)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [광주은행, <b>우리에프아이에스</b> 채용 우대 자격증과 비전공자... ](https://blog.naver.com/giveapeck/223621025743)
