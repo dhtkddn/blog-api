@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-04-22 09:44:11**
+마지막 업데이트: **📅 2026-04-22 10:49:38**
 
 ---
 
@@ -29,9 +29,9 @@
 - [<b>우리</b>FIS 아카데미(<b>우리FISA</b>) AI 엔지니어링 16주차 회고](https://blog.naver.com/whgp1127/224257983320)
 
 ### 🔹 #AI엔지니어링 검색 결과
+- [대전IT학원 <b>엔지니어링</b> <b>AI</b> 프롬프트 실습 과정](https://blog.naver.com/songin06/224261515236)
 - [하네스 <b>엔지니어링</b>이란? <b>AI</b> 에이전트 실수 줄이는 핵심 개념](https://blog.naver.com/ahnhw131/224256107522)
 - [프롬프트<b>엔지니어링</b>, <b>AI</b>를 잘 쓰는 사람들의 질문 기술](https://blog.naver.com/himediacokr/224212705033)
-- [챗gpt vs Gemini 프롬프트 <b>엔지니어링</b> <b>AI</b> 프롬프트 작성 6... ](https://blog.naver.com/reaa1213/224104133912)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 국비지원 교육으로 부담없이](https://blog.naver.com/oldskill/224212680106)
