@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-04-25 22:48:57**
+마지막 업데이트: **📅 2026-04-25 23:23:08**
 
 ---
 
@@ -24,9 +24,9 @@
 - [<b>우리FIS 아카데미</b> 2차 현직자 런치톡 참여 후기](https://blog.naver.com/ccaheng/224217907396)
 
 ### 🔹 #우리FISA 검색 결과
+- [<b>우리FISA</b> 클라우드 엔지니어링 6기 후기](https://blog.naver.com/tmdxdus2/224262049748)
 - [<b>우리FISA</b> 시리즈를 마치며...](https://blog.naver.com/tlsehdgh4162/224071632404)
 - [<b>우리</b>FIS, 금융 IT 전문가 양성 산실 ‘<b>우리FISA</b>’ 5기 수료](https://blog.naver.com/ceo009/224108256837)
-- [비전공자도 가능한 <b>우리</b>금융 IT교육 <b>우리FISA</b>4기 모집중 정보... ](https://blog.naver.com/ndu2002/223658094168)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [대전IT학원 <b>엔지니어링</b> <b>AI</b> 프롬프트 실습 과정](https://blog.naver.com/songin06/224261515236)
