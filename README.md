@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-06-07 12:09:41**
+마지막 업데이트: **📅 2026-06-07 14:16:42**
 
 ---
 
@@ -19,14 +19,14 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
-- [<b>우리FIS 아카데미</b>(<b>우리</b>FISA) AI 엔지니어링 22주차 회고](https://blog.naver.com/whgp1127/224302029352)
+- [<b>우리FIS 아카데미</b>(<b>우리</b>FISA) AI 엔지니어링 23주차 회고](https://blog.naver.com/whgp1127/224308785313)
 - [<b>우리FIS 아카데미</b> 5기 / AI엔지니어링 2주차 학습일지](https://blog.naver.com/tlsehdgh4162/223932387802)
 - [[<b>우리FIS 아카데미</b>_<b>우리</b>FISA_클라우드 서비스 개발_22주차... ](https://blog.naver.com/juho2075/224302154286)
 
 ### 🔹 #우리FISA 검색 결과
 - [<b>우리FISA</b> 시리즈를 마치며...](https://blog.naver.com/tlsehdgh4162/224071632404)
+- [<b>우리</b>FIS 아카데미(<b>우리FISA</b>) AI 엔지니어링 23주차 회고](https://blog.naver.com/whgp1127/224308785313)
 - [<b>우리</b>FIS, 금융 IT 전문가 양성 산실 ‘<b>우리FISA</b>’ 5기 수료](https://blog.naver.com/ceo009/224108256837)
-- [<b>우리</b>FIS 아카데미(<b>우리FISA</b>) AI 엔지니어링 22주차 회고](https://blog.naver.com/whgp1127/224302029352)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [gstack 설치부터 활용까지: Garry Tan의 <b>AI 엔지니어링</b> 팀... ](https://blog.naver.com/ribis9/224266786562)
