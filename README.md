@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-06-26 04:41:03**
+마지막 업데이트: **📅 2026-06-26 08:18:00**
 
 ---
 
@@ -24,14 +24,14 @@
 - [[<b>우리FIS 아카데미</b>_<b>우리</b>FISA_클라우드 서비스 개발_22주차... ](https://blog.naver.com/juho2075/224302154286)
 
 ### 🔹 #우리FISA 검색 결과
-- [<b>우리</b>FIS 아카데미(<b>우리FISA</b>) AI 엔지니어링 25주차 회고](https://blog.naver.com/whgp1127/224322781460)
 - [<b>우리FISA</b> 시리즈를 마치며...](https://blog.naver.com/tlsehdgh4162/224071632404)
+- [<b>우리</b>FIS 아카데미(<b>우리FISA</b>) AI 엔지니어링 25주차 회고](https://blog.naver.com/whgp1127/224322781460)
 - [<b>우리</b>FIS, 금융 IT 전문가 양성 산실 ‘<b>우리FISA</b>’ 5기 수료](https://blog.naver.com/ceo009/224108256837)
 
 ### 🔹 #AI엔지니어링 검색 결과
+- [<b>AI</b> 협업 최적화 전략: 컨텍스트 <b>엔지니어링</b>으로 성과 2배... ](https://blog.naver.com/rihodad/224327836877)
 - [gstack 설치부터 활용까지: Garry Tan의 <b>AI 엔지니어링</b> 팀... ](https://blog.naver.com/ribis9/224266786562)
 - [현대<b>엔지니어링</b>, <b>AI</b>를 활용한 ‘지능형 누수관리 및... ](https://blog.naver.com/hec_pr/224323085982)
-- [아주<b>엔지니어링</b> <b>AI</b> 재난안전 플랫폼 ‘Ahplus’ 신뢰성... ](https://blog.naver.com/no1_ktc/224313666474)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털 트레이닝</b> 6개월간 최대 360만원 훈련장려금 드려요](https://blog.naver.com/we_are_youth/224325732828)
