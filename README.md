@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-06-30 05:49:08**
+마지막 업데이트: **📅 2026-06-30 08:46:40**
 
 ---
 
@@ -29,9 +29,9 @@
 - [<b>우리</b>FIS, 금융 IT 전문가 양성 산실 ‘<b>우리FISA</b>’ 5기 수료](https://blog.naver.com/ceo009/224108256837)
 
 ### 🔹 #AI엔지니어링 검색 결과
+- [<b>AI</b>를 제대로 일하게 만드는 하네스 <b>엔지니어링</b>](https://blog.naver.com/suresofttech/224324348785)
 - [gstack 설치부터 활용까지: Garry Tan의 <b>AI 엔지니어링</b> 팀... ](https://blog.naver.com/ribis9/224266786562)
 - [<b>AI</b> 협업 최적화 전략: 컨텍스트 <b>엔지니어링</b>으로 성과 2배... ](https://blog.naver.com/rihodad/224327836877)
-- [대전IT학원 <b>엔지니어링</b> <b>AI</b> 프롬프트 실습 과정](https://blog.naver.com/songin06/224261515236)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털 트레이닝</b> 6개월간 최대 360만원 훈련장려금 드려요](https://blog.naver.com/we_are_youth/224325732828)
