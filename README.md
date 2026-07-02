@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-07-02 11:05:50**
+마지막 업데이트: **📅 2026-07-02 13:02:45**
 
 ---
 
@@ -31,7 +31,7 @@
 ### 🔹 #AI엔지니어링 검색 결과
 - [<b>AI</b>를 제대로 일하게 만드는 하네스 <b>엔지니어링</b>](https://blog.naver.com/suresofttech/224324348785)
 - [gstack 설치부터 활용까지: Garry Tan의 <b>AI 엔지니어링</b> 팀... ](https://blog.naver.com/ribis9/224266786562)
-- [대학생을 위한 <b>AI</b> 프롬프트 <b>엔지니어링</b> A to Z](https://blog.naver.com/nurimedia0/224333400490)
+- [배우는 바이브 <b>엔지니어링</b>, <b>AI</b> 시대 개발자의 새로운 생존 전략](https://blog.naver.com/jasonmoondistri/224334532008)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털 트레이닝</b> 6개월간 최대 360만원 훈련장려금 드려요](https://blog.naver.com/we_are_youth/224325732828)
