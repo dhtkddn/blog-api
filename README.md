@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-07-31 07:22:43**
+마지막 업데이트: **📅 2026-07-31 10:00:41**
 
 ---
 
@@ -24,9 +24,9 @@
 - [[<b>우리FIS아카데미</b> 5기] 클라우드 엔지니어링 과정 합격 후기](https://blog.naver.com/riverchoi2523/223889627584)
 
 ### 🔹 #우리FISA 검색 결과
-- [<b>우리FISA</b> 시리즈를 마치며...](https://blog.naver.com/tlsehdgh4162/224071632404)
-- [<b>우리</b>FIS, 금융 IT 전문가 양성 산실 ‘<b>우리FISA</b>’ 5기 수료](https://blog.naver.com/ceo009/224108256837)
-- [비전공자도 가능한 <b>우리</b>금융 IT교육 <b>우리FISA</b>4기 모집중 정보... ](https://blog.naver.com/ndu2002/223658094168)
+- [[<b>FIS</b> 유치부] 5세부터 7세까지, 단계별 writing 수업](https://blog.naver.com/fisjeongja/224334368078)
+- [<b>우리FIS</b>, 특성화고 IT 인재 육성 나선다…‘WITH <b>우리</b>... ](https://blog.naver.com/ceo009/224292135948)
+- [진행 (하트-하트재단, <b>우리</b>금융그룹, <b>우리FIS</b>, 사랑의열매 행사)](https://blog.naver.com/kimhyeeun37/224327386724)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [하네스 <b>엔지니어링</b>, <b>AI</b> 에이전트 시대의 새로운 핵심 역량](https://blog.naver.com/pcninc/224342593131)
