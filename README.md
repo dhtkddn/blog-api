@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-07 21:01:17**
+마지막 업데이트: **📅 2026-08-07 21:40:53**
 
 ---
 
@@ -29,9 +29,9 @@
 - [[인텔190322] RV 임박/게임이 끝나가고 있다.](https://pax-corea.tistory.com/412)
 
 ### 🔹 #AI엔지니어링 검색 결과
+- [<b>AI</b> 자격증부터 <b>AI</b> 이미지 제작까지, 프롬프트 <b>엔지니어링</b> 완전 정리](https://blog.naver.com/yearsan0104/224340040261)
 - [하네스 <b>엔지니어링</b>, <b>AI</b> 시대의 새로운 경쟁력](https://blog.naver.com/saltluxmarketing/224311470287)
 - [[<b>AI 엔지니어링</b>] Antigravity 2.0의 오케스트레이션 구조와 Gemini 3.6 Flash ....](https://blog.naver.com/totorowo/224356785986)
-- [프롬프트 <b>엔지니어링</b>부터 한계점 극복까지, 현직 개발자의 <b>AI</b> 코딩 ....](https://itry.tistory.com/2320)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [[2026 국비지원] 하반기 국민내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> 신청 조....](https://blog.naver.com/mentor_school/224364980393)
