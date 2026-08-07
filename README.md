@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-07 17:59:27**
+마지막 업데이트: **📅 2026-08-07 18:52:26**
 
 ---
 
@@ -30,8 +30,8 @@
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [하네스 <b>엔지니어링</b>, <b>AI</b> 시대의 새로운 경쟁력](https://blog.naver.com/saltluxmarketing/224311470287)
+- [[<b>AI 엔지니어링</b>] Antigravity 2.0의 오케스트레이션 구조와 Gemini 3.6 Flash ....](https://blog.naver.com/totorowo/224356785986)
 - [프롬프트 <b>엔지니어링</b>부터 한계점 극복까지, 현직 개발자의 <b>AI</b> 코딩 ....](https://itry.tistory.com/2320)
-- [<b>AI</b> 를 활용하는 방법 변천사](https://blog.naver.com/iooic2/224291250079)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [[2026 국비지원] 하반기 국민내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> 신청 조....](https://blog.naver.com/mentor_school/224364980393)
