@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-07 03:22:53**
+마지막 업데이트: **📅 2026-08-07 05:07:41**
 
 ---
 
@@ -19,31 +19,31 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
-- [<b>우리FIS 아카데미</b> 5기 / AI엔지니어링 2주차 학습일지](https://blog.naver.com/tlsehdgh4162/223932387802)
-- [<b>우리FIS 아카데미</b>(<b>우리</b>FISA) AI 엔지니어링 25주차 회고](https://blog.naver.com/whgp1127/224322781460)
-- [[<b>우리FIS아카데미</b> 5기] 클라우드 엔지니어링 과정 합격 후기](https://blog.naver.com/riverchoi2523/223889627584)
+- [<b>우리fis 아카데미</b> ai 엔지니어링 6기 지원 및 합격 후기 (<b>우리</b>은행 부....](https://blog.naver.com/kimdooyan8696/224131997544)
+- [DLCA Tech-Tree Con 행사 참여 후기](https://code-boki.tistory.com/225)
+- [주식 연구소 :: 오늘의 증시 : 국내증시 세계증시 달러환율 오늘환율....](https://whalesens.tistory.com/1503)
 
 ### 🔹 #우리FISA 검색 결과
-- [[<b>FIS</b> 유치부] 5세부터 7세까지, 단계별 writing 수업](https://blog.naver.com/fisjeongja/224334368078)
-- [<b>우리FIS</b>, 특성화고 IT 인재 육성 나선다…‘WITH <b>우리</b>... ](https://blog.naver.com/ceo009/224292135948)
-- [진행 (하트-하트재단, <b>우리</b>금융그룹, <b>우리FIS</b>, 사랑의열매 행사)](https://blog.naver.com/kimhyeeun37/224327386724)
+- [[<b>우리FISA</b>] Python Class](https://veritasgarage.tistory.com/241)
+- [[<b>우리FISA</b>] Delimiter, Trigger, Partition](https://veritasgarage.tistory.com/257)
+- [[인텔190322] RV 임박/게임이 끝나가고 있다.](https://pax-corea.tistory.com/412)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [하네스 <b>엔지니어링</b>, <b>AI</b> 에이전트 시대의 새로운 핵심 역량](https://blog.naver.com/pcninc/224342593131)
-- [gstack 설치부터 활용까지: Garry Tan의 <b>AI 엔지니어링</b> 팀... ](https://blog.naver.com/ribis9/224266786562)
-- [[집필 후기] 데모 다음의 <b>AI 엔지니어링</b>, 이제 막 시작한 분들을... ](https://blog.naver.com/hanbitstory/224361567201)
+- [하네스 <b>엔지니어링</b>, <b>AI</b> 시대의 새로운 경쟁력](https://blog.naver.com/saltluxmarketing/224311470287)
+- [코스닥 수익률 1위 주성<b>엔지니어링</b>, 시총 5위까지 오른 진짜 이유](https://blog.naver.com/allenbrisa/224337878060)
+- [프롬프트 <b>엔지니어링</b>부터 한계점 극복까지, 현직 개발자의 <b>AI</b> 코딩 ....](https://itry.tistory.com/2320)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [<b>K디지털트레이닝</b>으로 AI콘텐츠 분야 취업 준비하기](https://blog.naver.com/jungwoon1122/224370098351)
-- [<b>K디지털 트레이닝</b> 6개월간 최대 360만원 훈련장려금 드려요](https://blog.naver.com/we_are_youth/224325732828)
-- [<b>K디지털트레이닝</b> 국비지원 교육으로 배우고 취업 준비까지](https://blog.naver.com/season368/224147579630)
+- [[2026 국비지원] 하반기 국민내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> 신청 조....](https://blog.naver.com/mentor_school/224364980393)
+- [[<b>K</b>-<b>디지털 트레이닝</b>] 종류부터 비전공자 쉬운 과정 선택법까지 총정....](https://blog.naver.com/pohangwoman14/224335433659)
+- [대한민국에서 AI교육 무료로 받는 방법, 초보자를 위한 국비지원, 국....](https://blog.naver.com/suhoz/224363683542)
 
 ### 🔹 #우리에프아이에스 검색 결과
-- [서울 단체출강 <b>우리에프아이에스</b> X 마포드림스타트 복지관... ](https://blog.naver.com/add_u_/224302818764)
-- [광주은행, <b>우리에프아이에스</b> 채용 우대 자격증과 비전공자... ](https://blog.naver.com/giveapeck/223621025743)
-- [<b>우리에프아이에스</b>, 환경·안전 ISO 사후심사 통과…금융IT... ](https://blog.naver.com/ceo009/224313689699)
+- [<b>우리</b>은행 Swift Code( 스위프트 코드 ) : 지점 코드](https://albaeconomy.tistory.com/185)
+- [<b>우리</b>은행 사업보고서 (2014.12)](https://boytalk.tistory.com/120)
+- [위메프 - freebox](https://freemedia.tistory.com/200)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [<b>글로벌소프트웨어캠퍼스</b> 우리금융그룹 우리FISA4기모집중](https://blog.naver.com/dm3676/223653660164)
-- [<b>글로벌소프트웨어캠퍼스</b> 우리FISA 4기 정보 총정리](https://blog.naver.com/wuthy/223614821491)
-- [<b>글로벌소프트웨어캠퍼스</b> 우리FISA 아카데미 4기 모집](https://blog.naver.com/wnsghk856/223652388747)
+- [안양대 2026 입시결과(수시/정시)](https://blog.naver.com/jihorak4u/224352312437)
+- [천안시 공장, 제조업체, 기업명단, 1001-2000,](https://richcat.tistory.com/2548)
+- [삼성디스플레이, 아산<b>캠퍼스</b>에 8.6세대 IT OLED 설비 반입](https://lazion.tistory.com/2513602)
