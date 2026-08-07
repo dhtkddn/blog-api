@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-07 15:32:18**
+마지막 업데이트: **📅 2026-08-07 16:24:50**
 
 ---
 
@@ -44,6 +44,6 @@
 - [위메프 - freebox](https://freemedia.tistory.com/200)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [천안시 공장, 제조업체, 기업명단, 1001-2000,](https://richcat.tistory.com/2548)
 - [안양대 2026 입시결과(수시/정시)](https://blog.naver.com/jihorak4u/224352312437)
+- [천안시 공장, 제조업체, 기업명단, 1001-2000,](https://richcat.tistory.com/2548)
 - [삼성디스플레이, 아산<b>캠퍼스</b>에 8.6세대 IT OLED 설비 반입](https://lazion.tistory.com/2513602)
