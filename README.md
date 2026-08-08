@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-08 12:01:34**
+마지막 업데이트: **📅 2026-08-08 12:54:16**
 
 ---
 
@@ -29,9 +29,9 @@
 - [[<b>우리FISA</b>] Database 개체](https://veritasgarage.tistory.com/255)
 
 ### 🔹 #AI엔지니어링 검색 결과
+- [루프 <b>엔지니어링</b>이란? 프롬프트 <b>엔지니어링</b>과 뭐가 다른가요?](https://blog.naver.com/the60habit/224328352500)
 - [<b>AI</b> 자격증부터 <b>AI</b> 이미지 제작까지, 프롬프트 <b>엔지니어링</b> 완전 정리](https://blog.naver.com/yearsan0104/224340040261)
 - [데이터센터 반도체 교체주기 5년 <b>AI</b> 시대 주성<b>엔지니어링</b> 황철주 회....](https://blog.naver.com/hyunjolove/224367160362)
-- [<b>AI</b> 를 활용하는 방법 변천사](https://blog.naver.com/iooic2/224291250079)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [대한민국에서 AI교육 무료로 받는 방법, 초보자를 위한 국비지원, 국....](https://blog.naver.com/suhoz/224363683542)
