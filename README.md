@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-08 03:49:02**
+마지막 업데이트: **📅 2026-08-08 04:40:31**
 
 ---
 
@@ -26,12 +26,12 @@
 ### 🔹 #우리FISA 검색 결과
 - [[<b>우리FISA</b>] Python Class](https://veritasgarage.tistory.com/241)
 - [[<b>우리FISA</b>] Delimiter, Trigger, Partition](https://veritasgarage.tistory.com/257)
-- [[인텔190322] RV 임박/게임이 끝나가고 있다.](https://pax-corea.tistory.com/412)
+- [[<b>우리FISA</b>] Database 개체](https://veritasgarage.tistory.com/255)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [<b>AI</b> 자격증부터 <b>AI</b> 이미지 제작까지, 프롬프트 <b>엔지니어링</b> 완전 정리](https://blog.naver.com/yearsan0104/224340040261)
 - [하네스 <b>엔지니어링</b>, <b>AI</b> 시대의 새로운 경쟁력](https://blog.naver.com/saltluxmarketing/224311470287)
-- [[<b>AI 엔지니어링</b>] Antigravity 2.0의 오케스트레이션 구조와 Gemini 3.6 Flash ....](https://blog.naver.com/totorowo/224356785986)
+- [프롬프트 <b>엔지니어링</b>부터 한계점 극복까지, 현직 개발자의 <b>AI</b> 코딩 ....](https://itry.tistory.com/2320)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [대한민국에서 AI교육 무료로 받는 방법, 초보자를 위한 국비지원, 국....](https://blog.naver.com/suhoz/224363683542)
