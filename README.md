@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-10 05:39:36**
+마지막 업데이트: **📅 2026-08-10 06:52:56**
 
 ---
 
@@ -24,9 +24,9 @@
 - [주식 연구소 :: 오늘의 증시 : 국내증시 세계증시 달러환율 오늘환율....](https://whalesens.tistory.com/1503)
 
 ### 🔹 #우리FISA 검색 결과
+- [<b>우리FISA</b> 클라우드 엔지니어링 6기 후기](https://blog.naver.com/tmdxdus2/224262049748)
 - [[<b>우리FISA</b>] Python Class](https://veritasgarage.tistory.com/241)
 - [[<b>우리FISA</b>] Delimiter, Trigger, Partition](https://veritasgarage.tistory.com/257)
-- [[<b>우리FISA</b>] Database 개체](https://veritasgarage.tistory.com/255)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [루프 <b>엔지니어링</b>이란? 프롬프트 <b>엔지니어링</b>과 뭐가 다른가요?](https://blog.naver.com/the60habit/224328352500)
@@ -34,8 +34,8 @@
 - [<b>AI</b> 프롬프트 → 루프 <b>엔지니어링</b> (w/ 클로드 코드)](https://blog.naver.com/tulpa/224348299134)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [[2026 국비지원] 하반기 국민내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> 신청 조....](https://blog.naver.com/mentor_school/224364980393)
 - [대한민국에서 AI교육 무료로 받는 방법, 초보자를 위한 국비지원, 국....](https://blog.naver.com/suhoz/224363683542)
+- [[2026 국비지원] 하반기 국민내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> 신청 조....](https://blog.naver.com/mentor_school/224364980393)
 - [<b>k디지털트레이닝</b> 훈련장려금 신청 방법 대상 조건 총정리](https://blog.naver.com/panspans_/224359745910)
 
 ### 🔹 #우리에프아이에스 검색 결과
