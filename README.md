@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-10 23:32:23**
+마지막 업데이트: **📅 2026-08-11 00:01:35**
 
 ---
 
@@ -44,6 +44,6 @@
 - [위메프 - freebox](https://freemedia.tistory.com/200)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
+- [국방 강소기업 목록 1-300](https://richcat.tistory.com/13650)
 - [천안시 공장, 제조업체, 기업명단, 1001-2000,](https://richcat.tistory.com/2548)
 - [광주광역시 서구 천변좌로 등. 건강기능식품 일반판매기업 목록](https://richcat.tistory.com/5795)
-- [삼성디스플레이, 아산<b>캠퍼스</b>에 8.6세대 IT OLED 설비 반입](https://lazion.tistory.com/2513602)
