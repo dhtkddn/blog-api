@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-13 05:53:36**
+마지막 업데이트: **📅 2026-08-13 07:03:47**
 
 ---
 
@@ -29,8 +29,8 @@
 - [[<b>우리FISA</b>] Delimiter, Trigger, Partition](https://veritasgarage.tistory.com/257)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [루프 <b>엔지니어링</b>이란? 프롬프트 <b>엔지니어링</b>과 뭐가 다른가요?](https://blog.naver.com/the60habit/224328352500)
 - [<b>AI</b> 자격증부터 <b>AI</b> 이미지 제작까지, 프롬프트 <b>엔지니어링</b> 완전 정리](https://blog.naver.com/yearsan0104/224340040261)
+- [루프 <b>엔지니어링</b>이란? 프롬프트 <b>엔지니어링</b>과 뭐가 다른가요?](https://blog.naver.com/the60habit/224328352500)
 - [데이터센터 반도체 교체주기 5년 <b>AI</b> 시대 주성<b>엔지니어링</b> 황철주 회....](https://blog.naver.com/hyunjolove/224367160362)
 
 ### 🔹 #K디지털트레이닝 검색 결과
