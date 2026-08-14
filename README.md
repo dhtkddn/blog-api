@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-14 21:21:36**
+마지막 업데이트: **📅 2026-08-14 21:43:46**
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🔹 #우리FISA 검색 결과
 - [<b>우리FISA</b> 클라우드 엔지니어링 6기 후기](https://blog.naver.com/tmdxdus2/224262049748)
 - [[<b>우리FISA</b>] Python Class](https://veritasgarage.tistory.com/241)
-- [[<b>우리FISA</b>] Delimiter, Trigger, Partition](https://veritasgarage.tistory.com/257)
+- [[<b>우리FISA</b>] Database 개체](https://veritasgarage.tistory.com/255)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [주성<b>엔지니어링</b> 펀더멘털 분석 및 주식 전망, 주성<b>엔지니어링</b> 주가 ....](https://blog.naver.com/jungh3285/224372692558)
