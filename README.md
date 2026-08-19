@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-19 13:13:42**
+마지막 업데이트: **📅 2026-08-19 13:55:55**
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### 🔹 #우리FISA 검색 결과
 - [[<b>우리FISA</b>] Python Class](https://veritasgarage.tistory.com/241)
+- ['Netizen Photo News' '2020. 2. 12'~13(수-목)](https://ygj3008.tistory.com/9274)
 - [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
-- [[<b>우리FISA</b>] Database 개체](https://veritasgarage.tistory.com/255)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [<b>AI</b> 자격증부터 <b>AI</b> 이미지 제작까지, 프롬프트 <b>엔지니어링</b> 완전 정리](https://blog.naver.com/yearsan0104/224340040261)
