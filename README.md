@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-20 05:14:01**
+마지막 업데이트: **📅 2026-08-20 05:44:53**
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🔹 #우리FISA 검색 결과
 - [[<b>우리FISA</b>] Python Class](https://veritasgarage.tistory.com/241)
 - ['Netizen Photo News' '2020. 2. 12'~13(수-목)](https://ygj3008.tistory.com/9274)
-- [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
+- [<b>우리FISA</b> 클라우드 엔지니어링 6기 후기](https://blog.naver.com/tmdxdus2/224262049748)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [<b>AI</b> 프롬프트 → 루프 <b>엔지니어링</b> (w/ 클로드 코드)](https://blog.naver.com/tulpa/224348299134)
@@ -45,5 +45,5 @@
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [안양대 2026 입시결과(수시/정시)](https://blog.naver.com/jihorak4u/224352312437)
+- [경기도 김포시 제조공장 주소록 : 6001-6829](https://ilovebusiness.tistory.com/1578)
 - [천안시 공장, 제조업체, 기업명단, 1001-2000,](https://richcat.tistory.com/2548)
-- [삼성디스플레이, 아산<b>캠퍼스</b>에 8.6세대 IT OLED 설비 반입](https://lazion.tistory.com/2513602)
