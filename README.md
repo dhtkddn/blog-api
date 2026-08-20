@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-20 19:59:46**
+마지막 업데이트: **📅 2026-08-20 20:25:45**
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🔹 #우리FISA 검색 결과
 - [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
 - ['Netizen Photo News' '2020. 2. 12'~13(수-목)](https://ygj3008.tistory.com/9274)
-- [[<b>우리FISA</b>] Database 개체](https://veritasgarage.tistory.com/255)
+- [[<b>우리FISA</b>] 4일차 RegExp](https://veritasgarage.tistory.com/231)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [루프 <b>엔지니어링</b>이란? 프롬프트 <b>엔지니어링</b>과 뭐가 다른가요?](https://blog.naver.com/the60habit/224328352500)
