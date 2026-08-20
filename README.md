@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-20 04:02:52**
+마지막 업데이트: **📅 2026-08-20 04:44:05**
 
 ---
 
@@ -26,12 +26,12 @@
 ### 🔹 #우리FISA 검색 결과
 - [[<b>우리FISA</b>] Python Class](https://veritasgarage.tistory.com/241)
 - ['Netizen Photo News' '2020. 2. 12'~13(수-목)](https://ygj3008.tistory.com/9274)
-- [<b>우리FISA</b> 클라우드 엔지니어링 6기 후기](https://blog.naver.com/tmdxdus2/224262049748)
+- [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [<b>AI</b> 자격증부터 <b>AI</b> 이미지 제작까지, 프롬프트 <b>엔지니어링</b> 완전 정리](https://blog.naver.com/yearsan0104/224340040261)
 - [<b>AI</b> 프롬프트 → 루프 <b>엔지니어링</b> (w/ 클로드 코드)](https://blog.naver.com/tulpa/224348299134)
 - [루프 <b>엔지니어링</b>이란? 프롬프트 <b>엔지니어링</b>과 뭐가 다른가요?](https://blog.naver.com/the60habit/224328352500)
+- [<b>AI</b> 자격증부터 <b>AI</b> 이미지 제작까지, 프롬프트 <b>엔지니어링</b> 완전 정리](https://blog.naver.com/yearsan0104/224340040261)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [미래 기술의 주역으로 도약하는 실무 중심 인재 양성 <b>K</b>-<b>디지털</b> 트레....](https://blog.naver.com/albatross_01/224338235873)
