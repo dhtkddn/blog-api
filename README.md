@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-20 10:13:44**
+마지막 업데이트: **📅 2026-08-20 10:45:20**
 
 ---
 
@@ -19,14 +19,14 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
+- [미국 특수 교육 전환점 (Transition POINTS) 프로그램 :: 미국에서](https://americanlifeinca.tistory.com/267)
 - [DLCA Tech-Tree Con 행사 참여 후기](https://code-boki.tistory.com/225)
 - [주식 연구소 :: 오늘의 증시 : 국내증시 세계증시 달러환율 오늘환율....](https://whalesens.tistory.com/1503)
-- [Gottfried](https://mannachurch.tistory.com/2142)
 
 ### 🔹 #우리FISA 검색 결과
 - [[<b>우리FISA</b>] Python Class](https://veritasgarage.tistory.com/241)
 - ['Netizen Photo News' '2020. 2. 12'~13(수-목)](https://ygj3008.tistory.com/9274)
-- [<b>우리FISA</b> 클라우드 엔지니어링 6기 후기](https://blog.naver.com/tmdxdus2/224262049748)
+- [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [루프 <b>엔지니어링</b>이란? 프롬프트 <b>엔지니어링</b>과 뭐가 다른가요?](https://blog.naver.com/the60habit/224328352500)
