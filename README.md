@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-20 11:34:11**
+마지막 업데이트: **📅 2026-08-20 11:55:13**
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🔹 #우리FISA 검색 결과
 - [[<b>우리FISA</b>] Python Class](https://veritasgarage.tistory.com/241)
 - ['Netizen Photo News' '2020. 2. 12'~13(수-목)](https://ygj3008.tistory.com/9274)
-- [<b>우리FISA</b> 클라우드 엔지니어링 6기 후기](https://blog.naver.com/tmdxdus2/224262049748)
+- [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [루프 <b>엔지니어링</b>이란? 프롬프트 <b>엔지니어링</b>과 뭐가 다른가요?](https://blog.naver.com/the60habit/224328352500)
@@ -34,14 +34,14 @@
 - [코스닥 수익률 1위 주성<b>엔지니어링</b>, 시총 5위까지 오른 진짜 이유](https://blog.naver.com/allenbrisa/224337878060)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [[<b>K</b>-<b>디지털 트레이닝</b>] 종류부터 비전공자 쉬운 과정 선택법까지 총정....](https://blog.naver.com/pohangwoman14/224335433659)
 - [<b>K디지털트레이닝</b>(KDT)이란? 일반 국비지원과 차이점 정리](https://blog.naver.com/mcxod/224277527376)
+- [[<b>K</b>-<b>디지털 트레이닝</b>] 종류부터 비전공자 쉬운 과정 선택법까지 총정....](https://blog.naver.com/pohangwoman14/224335433659)
 - [미래 기술의 주역으로 도약하는 실무 중심 인재 양성 <b>K</b>-<b>디지털</b> 트레....](https://blog.naver.com/albatross_01/224338235873)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리</b>은행 Swift Code( 스위프트 코드 ) : 지점 코드](https://albaeconomy.tistory.com/185)
 - [<b>우리</b>은행 사업보고서 (2014.12)](https://boytalk.tistory.com/120)
-- [위메프 - freebox](https://freemedia.tistory.com/200)
+- [개미증권센터 차트관심주 신성통상 - 중국수혜](https://megastock.tistory.com/1850)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [안양대 2026 입시결과(수시/정시)](https://blog.naver.com/jihorak4u/224352312437)
