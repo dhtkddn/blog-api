@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-20 23:52:05**
+마지막 업데이트: **📅 2026-08-21 00:24:58**
 
 ---
 
@@ -19,8 +19,8 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
-- [미국 특수 교육 전환점 (Transition POINTS) 프로그램 :: 미국에서](https://americanlifeinca.tistory.com/267)
 - [DLCA Tech-Tree Con 행사 참여 후기](https://code-boki.tistory.com/225)
+- [미국 특수 교육 전환점 (Transition POINTS) 프로그램 :: 미국에서](https://americanlifeinca.tistory.com/267)
 - [주식 연구소 :: 오늘의 증시 : 국내증시 세계증시 달러환율 오늘환율....](https://whalesens.tistory.com/1503)
 
 ### 🔹 #우리FISA 검색 결과
