@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-22 08:19:22**
+마지막 업데이트: **📅 2026-08-22 08:49:58**
 
 ---
 
@@ -24,8 +24,8 @@
 - [주식 연구소 :: 오늘의 증시 : 국내증시 세계증시 달러환율 오늘환율....](https://whalesens.tistory.com/1503)
 
 ### 🔹 #우리FISA 검색 결과
-- [<b>우리FISA</b> 클라우드 엔지니어링 6기 후기](https://blog.naver.com/tmdxdus2/224262049748)
 - [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
+- [<b>우리FISA</b> 클라우드 엔지니어링 6기 후기](https://blog.naver.com/tmdxdus2/224262049748)
 - [[<b>우리FISA</b>] 4일차 RegExp](https://veritasgarage.tistory.com/231)
 
 ### 🔹 #AI엔지니어링 검색 결과
@@ -36,7 +36,7 @@
 ### 🔹 #K디지털트레이닝 검색 결과
 - [내일배움카드 <b>K</b>-<b>디지털 트레이닝</b>과 기초역량훈련 지원금 한도 및 변....](https://blog.naver.com/smilessun02/224377968138)
 - [<b>K디지털트레이닝</b>(KDT)이란? 일반 국비지원과 차이점 정리](https://blog.naver.com/mcxod/224277527376)
-- [AI·빅데이터 교육비 지원에 월 최대 20만원까지…<b>K</b>-<b>디지털 트레이닝</b> ....](https://blog.naver.com/sungm1187/224384664070)
+- [[<b>K</b>-<b>디지털 트레이닝</b>] 종류부터 비전공자 쉬운 과정 선택법까지 총정....](https://blog.naver.com/pohangwoman14/224335433659)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리</b>은행 Swift Code( 스위프트 코드 ) : 지점 코드](https://albaeconomy.tistory.com/185)
