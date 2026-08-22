@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-22 17:54:54**
+마지막 업데이트: **📅 2026-08-22 18:08:48**
 
 ---
 
@@ -24,8 +24,8 @@
 - [주식 연구소 :: 오늘의 증시 : 국내증시 세계증시 달러환율 오늘환율....](https://whalesens.tistory.com/1503)
 
 ### 🔹 #우리FISA 검색 결과
-- [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
 - [<b>우리FISA</b> 클라우드 엔지니어링 6기 후기](https://blog.naver.com/tmdxdus2/224262049748)
+- [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
 - [[<b>우리FISA</b>] 4일차 RegExp](https://veritasgarage.tistory.com/231)
 
 ### 🔹 #AI엔지니어링 검색 결과
