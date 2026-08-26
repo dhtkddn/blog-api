@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-08-26 06:17:33**
+마지막 업데이트: **📅 2026-08-26 07:09:57**
 
 ---
 
@@ -19,31 +19,31 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
-- [DLCA Tech-Tree Con 행사 참여 후기](https://code-boki.tistory.com/225)
-- [미국 특수 교육 전환점 (Transition POINTS) 프로그램 :: 미국에서](https://americanlifeinca.tistory.com/267)
-- [주식 연구소 :: 오늘의 증시 : 국내증시 세계증시 달러환율 오늘환율....](https://whalesens.tistory.com/1503)
+- [2020년 2월25일 화요일 케이블스포츠 tv편성표 다시보기](https://tvinfotong.tistory.com/5064)
+- [2020년 2월22일 토요일 케이블스포츠 tv편성표 다시보기](https://tvinfotong.tistory.com/5046)
+- [행복추구 :: 중학영어문법 (6) 조동사 Can, could 기타 조동사](https://poly-academy.tistory.com/1698)
 
 ### 🔹 #우리FISA 검색 결과
-- [<b>우리FISA</b> 클라우드 엔지니어링 6기 후기](https://blog.naver.com/tmdxdus2/224262049748)
-- [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
-- [[<b>우리FISA</b>] 4일차 RegExp](https://veritasgarage.tistory.com/231)
+- [[Docker] Multi Stage Build](https://veritasgarage.tistory.com/260)
+- [연암과 다산 사이 :: 미국의 '우방국' 도청 논란 ... 美앵커 尹에 돌직....](https://ya-n-ds.tistory.com/4296)
+- [joogunking :: 스노든 (Snowden, 2016) 1080p.BluRay.x264-SPARKS](https://joogunking.tistory.com/388)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [루프 <b>엔지니어링</b>이란? 프롬프트 <b>엔지니어링</b>과 뭐가 다른가요?](https://blog.naver.com/the60habit/224328352500)
-- [<b>AI</b> 상식 정리. 프롬프트·콘텍스트·루프 <b>엔지니어링</b>은 무엇이 다를....](https://blog.naver.com/khszzxx/224379322820)
-- [루프 <b>엔지니어링</b>(Loop Engineering)이란 무엇인가? <b>AI</b> 피드백 루프 이해하....](https://blog.naver.com/anriver/224324283653)
+- [세정<b>엔지니어링</b>,세정로봇,산업용로봇,산업용로봇가격,세정로봇](https://industry.daara.co.kr/1527)
+- [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/744557293/16823980)
+- [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/773206298/16823612)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [내일배움카드 <b>K</b>-<b>디지털 트레이닝</b>과 기초역량훈련 지원금 한도 및 변....](https://blog.naver.com/smilessun02/224377968138)
-- [<b>K디지털트레이닝</b>(KDT)이란? 일반 국비지원과 차이점 정리](https://blog.naver.com/mcxod/224277527376)
-- [AI·빅데이터 교육비 지원에 월 최대 20만원까지…<b>K</b>-<b>디지털 트레이닝</b> ....](https://blog.naver.com/sungm1187/224384664070)
+- [빅데이터 주식사전 : 2030유망업종과 종목을 단어로 이해](https://ji-sungsungi.tistory.com/118)
+- [[알라딘서재]210308](https://blog.aladin.co.kr/793033131/12435863)
+- [2024년 건양대학교 등록금, 취업률, 기숙사 시설, 기숙사비, 기숙사 ....](https://mom-hits-paydirt.tistory.com/2656)
 
 ### 🔹 #우리에프아이에스 검색 결과
-- [<b>우리</b>은행 Swift Code( 스위프트 코드 ) : 지점 코드](https://albaeconomy.tistory.com/185)
-- [<b>우리</b>은행 사업보고서 (2014.12)](https://boytalk.tistory.com/120)
 - [개미증권센터 차트관심주 신성통상 - 중국수혜](https://megastock.tistory.com/1850)
+- [공인전자문서센터 유포스트뱅크 6개월간 업무정지](https://subby.tistory.com/752)
+- [국내 대기업 분야별 티어 정리 ver 38.22](https://etfplant.tistory.com/1523)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [충청북도 청주시 청원구 기업 정보현황(공장등록 회사명)](https://jungshjoa.tistory.com/303)
-- [전라북도 익산시 군산시 기업 공장등록 현황 정보입니다](https://jungshjoa.tistory.com/348)
-- [천안시 공장, 제조업체, 기업명단, 1001-2000,](https://richcat.tistory.com/2548)
+- [오늘의 아침 시황 : 2022년 8월 23일(화)](https://10000steps.tistory.com/105)
+- [2024년 배재대학교 등록금, 취업률, 기숙사 시설, 기숙사비, 기숙사 ....](https://mom-hits-paydirt.tistory.com/2710)
+- [거래대금 상위주 TOP30 이슈정리2025년 11월 17일](https://timeli.tistory.com/2178)
