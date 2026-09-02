@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-09-02 05:39:24**
+마지막 업데이트: **📅 2026-09-02 09:52:40**
 
 ---
 
@@ -19,24 +19,24 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
-- [2020년 2월22일 토요일 케이블스포츠 tv편성표 다시보기](https://tvinfotong.tistory.com/5046)
 - [2020년 2월25일 화요일 케이블스포츠 tv편성표 다시보기](https://tvinfotong.tistory.com/5064)
+- [2020년 2월22일 토요일 케이블스포츠 tv편성표 다시보기](https://tvinfotong.tistory.com/5046)
 - [행복추구 :: 중학영어문법 (6) 조동사 Can, could 기타 조동사](https://poly-academy.tistory.com/1698)
 
 ### 🔹 #우리FISA 검색 결과
 - [[Docker] Multi Stage Build](https://veritasgarage.tistory.com/260)
 - [연암과 다산 사이 :: 미국의 '우방국' 도청 논란 ... 美앵커 尹에 돌직....](https://ya-n-ds.tistory.com/4296)
-- [오늘의 스포츠 연예 소식 야구 축구 농구 배구 골프 영화 2018년 7월 2....](https://blogkoreas.tistory.com/2094)
+- [러시아 게이트[러시아의 미국 대선 개입 논란]](https://007nis.tistory.com/15889544)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/773206298/16823612)
-- [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/744557293/16823980)
 - [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/744308196/16823617)
+- [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/744557293/16823980)
+- [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/773206298/16823612)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [빅데이터 주식사전 : 2030유망업종과 종목을 단어로 이해](https://ji-sungsungi.tistory.com/118)
 - [[알라딘서재]210308](https://blog.aladin.co.kr/793033131/12435863)
-- [[증권사리포트] 팬덤과 IP산업 보고서 정리](https://monicareport.tistory.com/708)
+- [빅데이터 주식사전 : 2030유망업종과 종목을 단어로 이해](https://ji-sungsungi.tistory.com/118)
+- [201008 주요 뉴스 및 이슈](https://now18.tistory.com/399)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [개미증권센터 차트관심주 신성통상 - 중국수혜](https://megastock.tistory.com/1850)
@@ -44,6 +44,6 @@
 - [<b>우리</b>은행 사업보고서 (2014.12)](https://boytalk.tistory.com/120)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [거래대금 상위주 TOP30 이슈정리2025년 11월 17일](https://timeli.tistory.com/2178)
-- [[대학교수 임용] [동국대학교] 2026학년도 1학기 교수 초빙(정년트랙) ....](https://ecareer.tistory.com/7154)
 - [인서울 논술시험 일정](https://kimexp.tistory.com/2726)
+- [[대학교수 임용] [동국대학교] 2026학년도 1학기 교수 초빙(정년트랙) ....](https://ecareer.tistory.com/7154)
+- [거래대금 상위주 TOP30 이슈정리2025년 11월 17일](https://timeli.tistory.com/2178)
