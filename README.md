@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-09-04 19:26:38**
+마지막 업데이트: **📅 2026-09-04 21:36:04**
 
 ---
 
@@ -34,9 +34,9 @@
 - [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/758818265/16761337)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [[알라딘서재]210308](https://blog.aladin.co.kr/793033131/12435863)
 - [빅데이터 주식사전 : 2030유망업종과 종목을 단어로 이해](https://ji-sungsungi.tistory.com/118)
-- [대학에서 학생의 취업을 위해 할 수있는 100가지 프로그램](https://knssembly.tistory.com/1658)
+- [[알라딘서재]210308](https://blog.aladin.co.kr/793033131/12435863)
+- [[증권사리포트] 팬덤과 IP산업 보고서 정리](https://monicareport.tistory.com/708)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [개미증권센터 차트관심주 신성통상 - 중국수혜](https://megastock.tistory.com/1850)
@@ -45,5 +45,5 @@
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [2024년 성균관대학교 등록금, 취업률, 기숙사 시설, 기숙사비, 기숙사....](https://mom-hits-paydirt.tistory.com/2725)
-- [거래대금 상위주 TOP30 이슈정리2025년 11월 17일](https://timeli.tistory.com/2178)
 - [[START] 스타트업 12월 1주차_창업 뉴스레터](https://hyunhp.tistory.com/67)
+- [가천대학교 수시등급(2019) :: 스페셜스터디](https://specialstudy.tistory.com/129)
