@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-09-12 18:33:32**
+마지막 업데이트: **📅 2026-09-12 20:51:25**
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🔹 #우리FISA 검색 결과
 - [[Docker] Multi Stage Build](https://veritasgarage.tistory.com/260)
 - [연암과 다산 사이 :: 미국의 '우방국' 도청 논란 ... 美앵커 尹에 돌직....](https://ya-n-ds.tistory.com/4296)
-- [오늘의 스포츠 연예 소식 야구 축구 농구 배구 골프 영화 2018년 7월 2....](https://blogkoreas.tistory.com/2094)
+- [러시아 게이트[러시아의 미국 대선 개입 논란]](https://007nis.tistory.com/15889544)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/773206298/16823612)
@@ -34,8 +34,8 @@
 - [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/744557293/16823980)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [[증권사리포트] 팬덤과 IP산업 보고서 정리](https://monicareport.tistory.com/708)
 - [201008 주요 뉴스 및 이슈](https://now18.tistory.com/399)
+- [[증권사리포트] 팬덤과 IP산업 보고서 정리](https://monicareport.tistory.com/708)
 - [대학에서 학생의 취업을 위해 할 수있는 100가지 프로그램](https://knssembly.tistory.com/1658)
 
 ### 🔹 #우리에프아이에스 검색 결과
