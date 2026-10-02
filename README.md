@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-01 20:29:51**
+마지막 업데이트: **📅 2026-10-02 00:01:06**
 
 ---
 
@@ -26,24 +26,24 @@
 ### 🔹 #우리FISA 검색 결과
 - [[Docker] Multi Stage Build](https://veritasgarage.tistory.com/260)
 - [연암과 다산 사이 :: 미국의 '우방국' 도청 논란 ... 美앵커 尹에 돌직....](https://ya-n-ds.tistory.com/4296)
-- [러시아 게이트[러시아의 미국 대선 개입 논란]](https://007nis.tistory.com/15889544)
+- [FBI, 존 브레넌과 제임스 코미에 대한 형사 수사 착수 :: 아디노 미디....](https://adino.tistory.com/1072)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/758818265/16761337)
-- [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/744308196/16823617)
 - [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/773206298/16823612)
+- [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/744557293/16823980)
+- [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/744308196/16823617)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [대학에서 학생의 취업을 위해 할 수있는 100가지 프로그램](https://knssembly.tistory.com/1658)
 - [메이비(MayBee) 충격, 섹시 래퍼로 변신](https://www.mediapaper.kr/2137)
 - [포토데이 현장 뒷풍경은 이렇다.](https://helenadream.net/301)
+- [다음글 예고 — 한솔닷컴](https://hsol.tistory.com/1025)
 
 ### 🔹 #우리에프아이에스 검색 결과
-- [개미증권센터 차트관심주 신성통상 - 중국수혜](https://megastock.tistory.com/1850)
 - [공인전자문서센터 유포스트뱅크 6개월간 업무정지](https://subby.tistory.com/752)
 - [<b>우리</b>은행 사업보고서 (2014.12)](https://boytalk.tistory.com/120)
+- [개미증권센터 차트관심주 신성통상 - 중국수혜](https://megastock.tistory.com/1850)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [2024 수능 표준점수별 지원대학! (375점 376점 377점 378점 379점)](https://liggnob.tistory.com/214)
 - [가천대학교 수시등급(2019) :: 스페셜스터디](https://specialstudy.tistory.com/129)
-- [달공이 2018년 8월 20일 일별 주식 상승률 상위 테마 종목 정보 :: 달공....](https://dal02stock.tistory.com/21878)
+- [달공이 2018년 5월 23일 일별 주식 상승률 상위 테마 종목 정보 :: 달공....](https://dal02stock.tistory.com/19504)
