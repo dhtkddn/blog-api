@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-03 18:02:29**
+마지막 업데이트: **📅 2026-10-03 20:54:14**
 
 ---
 
@@ -25,18 +25,18 @@
 
 ### 🔹 #우리FISA 검색 결과
 - [[Docker] Multi Stage Build](https://veritasgarage.tistory.com/260)
-- [FBI, 존 브레넌과 제임스 코미에 대한 형사 수사 착수 :: 아디노 미디....](https://adino.tistory.com/1072)
 - [러시아 게이트[러시아의 미국 대선 개입 논란]](https://007nis.tistory.com/15889544)
+- [FBI, 존 브레넌과 제임스 코미에 대한 형사 수사 착수 :: 아디노 미디....](https://adino.tistory.com/1072)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/758818265/16761337)
 - [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/744557293/16823980)
 - [LLM Post-training | CSP LLM Post-training 서비스 (AWS Bedrock, Microsoft Azure, Google ....](https://littlefoxdiary.tistory.com/136)
+- [[업계보도] 주간(09/29~10/05) <b>엔지니어링</b> 업계 동향](https://samaneng.tistory.com/228)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [메이비(MayBee) 충격, 섹시 래퍼로 변신](https://www.mediapaper.kr/2137)
-- [포토데이 현장 뒷풍경은 이렇다.](https://helenadream.net/301)
 - [다음글 예고 — 한솔닷컴](https://hsol.tistory.com/1025)
+- [<b>디지털</b>웍스 - 두뇌 단련 <b>트레이닝</b> 루빅스 큐브와 초유명 퍼즐들 (頭....](https://fpwjem-r-k-s.tistory.com/382)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [공인전자문서센터 유포스트뱅크 6개월간 업무정지](https://subby.tistory.com/752)
@@ -46,4 +46,4 @@
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [2024 수능 표준점수별 지원대학! (375점 376점 377점 378점 379점)](https://liggnob.tistory.com/214)
 - [가천대학교 수시등급(2019) :: 스페셜스터디](https://specialstudy.tistory.com/129)
-- [달공이 2018년 5월 23일 일별 주식 상승률 상위 테마 종목 정보 :: 달공....](https://dal02stock.tistory.com/19504)
+- [BIM AWARDS 2023 수상작 모음](https://studyingengineer.tistory.com/1570)
