@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-04 18:13:30**
+마지막 업데이트: **📅 2026-10-04 21:21:47**
 
 ---
 
@@ -29,8 +29,8 @@
 - [FBI, 존 브레넌과 제임스 코미에 대한 형사 수사 착수 :: 아디노 미디....](https://adino.tistory.com/1072)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/744557293/16823980)
 - [LLM Post-training | CSP LLM Post-training 서비스 (AWS Bedrock, Microsoft Azure, Google ....](https://littlefoxdiary.tistory.com/136)
+- [[업계보도] 주간(09/29~10/05) <b>엔지니어링</b> 업계 동향](https://samaneng.tistory.com/228)
 - [[서평] 프롬프트 <b>엔지니어링</b>의 비밀](https://blog.aladin.co.kr/724135178/15989679)
 
 ### 🔹 #K디지털트레이닝 검색 결과
