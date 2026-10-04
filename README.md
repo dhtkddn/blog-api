@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-04 21:21:47**
+마지막 업데이트: **📅 2026-10-04 23:59:19**
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### 🔹 #우리FISA 검색 결과
 - [[Docker] Multi Stage Build](https://veritasgarage.tistory.com/260)
-- [러시아 게이트[러시아의 미국 대선 개입 논란]](https://007nis.tistory.com/15889544)
 - [FBI, 존 브레넌과 제임스 코미에 대한 형사 수사 착수 :: 아디노 미디....](https://adino.tistory.com/1072)
+- [러시아 게이트[러시아의 미국 대선 개입 논란]](https://007nis.tistory.com/15889544)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [LLM Post-training | CSP LLM Post-training 서비스 (AWS Bedrock, Microsoft Azure, Google ....](https://littlefoxdiary.tistory.com/136)
