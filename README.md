@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-06 13:51:09**
+마지막 업데이트: **📅 2026-10-06 19:08:06**
 
 ---
 
@@ -25,13 +25,13 @@
 
 ### 🔹 #우리FISA 검색 결과
 - [[Docker] Multi Stage Build](https://veritasgarage.tistory.com/260)
-- [러시아 게이트[러시아의 미국 대선 개입 논란]](https://007nis.tistory.com/15889544)
 - [FBI, 존 브레넌과 제임스 코미에 대한 형사 수사 착수 :: 아디노 미디....](https://adino.tistory.com/1072)
+- [러시아 게이트[러시아의 미국 대선 개입 논란]](https://007nis.tistory.com/15889544)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [LLM Post-training | CSP LLM Post-training 서비스 (AWS Bedrock, Microsoft Azure, Google ....](https://littlefoxdiary.tistory.com/136)
 - [[서평] 프롬프트 <b>엔지니어링</b>의 비밀](https://blog.aladin.co.kr/724135178/15989679)
 - [[업계보도] 주간(09/29~10/05) <b>엔지니어링</b> 업계 동향](https://samaneng.tistory.com/228)
+- [프롬프트 <b>엔지니어링</b> 문서 정리하기 — All I Need Is Data.](https://data-newbie.tistory.com/1029)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [메이비(MayBee) 충격, 섹시 래퍼로 변신](https://www.mediapaper.kr/2137)
@@ -44,6 +44,6 @@
 - [개미증권센터 차트관심주 신성통상 - 중국수혜](https://megastock.tistory.com/1850)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [2024 수능 표준점수별 지원대학! (375점 376점 377점 378점 379점)](https://liggnob.tistory.com/214)
 - [가천대학교 수시등급(2019) :: 스페셜스터디](https://specialstudy.tistory.com/129)
-- [20200318_코스피/코스닥 일거래현황 및 피봇데이터](https://ddoddoing.tistory.com/232)
+- [달공이 2018년 8월 22일 일별 주식 상승률 상위 테마 종목 정보 :: 달공....](https://dal02stock.tistory.com/21940)
+- [달공이 2018년 8월 20일 일별 주식 상승률 상위 테마 종목 정보 :: 달공....](https://dal02stock.tistory.com/21878)
