@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-07 08:11:19**
+마지막 업데이트: **📅 2026-10-07 15:31:16**
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### 🔹 #우리FISA 검색 결과
 - [[Docker] Multi Stage Build](https://veritasgarage.tistory.com/260)
-- [FBI, 존 브레넌과 제임스 코미에 대한 형사 수사 착수 :: 아디노 미디....](https://adino.tistory.com/1072)
 - [러시아 게이트[러시아의 미국 대선 개입 논란]](https://007nis.tistory.com/15889544)
+- [FBI, 존 브레넌과 제임스 코미에 대한 형사 수사 착수 :: 아디노 미디....](https://adino.tistory.com/1072)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [[업계보도] 주간(09/29~10/05) <b>엔지니어링</b> 업계 동향](https://samaneng.tistory.com/228)
@@ -46,4 +46,4 @@
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [가천대학교 수시등급(2019) :: 스페셜스터디](https://specialstudy.tistory.com/129)
 - [2024년 계명대학교 등록금, 취업률, 기숙사 시설, 기숙사비, 기숙사 ....](https://mom-hits-paydirt.tistory.com/2673)
-- [달공이 2018년 8월 20일 일별 주식 상승률 상위 테마 종목 정보 :: 달공....](https://dal02stock.tistory.com/21878)
+- [20200318_코스피/코스닥 일거래현황 및 피봇데이터](https://ddoddoing.tistory.com/232)
