@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-08 19:24:18**
+마지막 업데이트: **📅 2026-10-08 23:47:32**
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🔹 #우리FISA 검색 결과
 - [[Docker] Multi Stage Build](https://veritasgarage.tistory.com/260)
 - [러시아 게이트[러시아의 미국 대선 개입 논란]](https://007nis.tistory.com/15889544)
-- [FBI, 존 브레넌과 제임스 코미에 대한 형사 수사 착수 :: 아디노 미디....](https://adino.tistory.com/1072)
+- [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [[업계보도] 주간(09/29~10/05) <b>엔지니어링</b> 업계 동향](https://samaneng.tistory.com/228)
