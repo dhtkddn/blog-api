@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-09 17:02:54**
+마지막 업데이트: **📅 2026-10-09 21:33:24**
 
 ---
 
@@ -25,8 +25,8 @@
 
 ### 🔹 #우리FISA 검색 결과
 - [[Docker] Multi Stage Build](https://veritasgarage.tistory.com/260)
-- [러시아 게이트[러시아의 미국 대선 개입 논란]](https://007nis.tistory.com/15889544)
 - [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
+- [착륙은 곧 올 것입니다..](https://blog.naver.com/khm2gtp/223687889835)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [[업계보도] 주간(09/29~10/05) <b>엔지니어링</b> 업계 동향](https://samaneng.tistory.com/228)
@@ -34,9 +34,9 @@
 - [프롬프트 <b>엔지니어링</b> 문서 정리하기 — All I Need Is Data.](https://data-newbie.tistory.com/1029)
 
 ### 🔹 #K디지털트레이닝 검색 결과
+- [수행기관별 중소기업지원사업 목록 2024 : 경기콘텐츠진흥원](https://richcat.tistory.com/304960)
 - [메이비(MayBee) 충격, 섹시 래퍼로 변신](https://www.mediapaper.kr/2137)
 - [다음글 예고 — 한솔닷컴](https://hsol.tistory.com/1025)
-- [<b>디지털</b>웍스 - 두뇌 단련 <b>트레이닝</b> 루빅스 큐브와 초유명 퍼즐들 (頭....](https://fpwjem-r-k-s.tistory.com/382)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [공인전자문서센터 유포스트뱅크 6개월간 업무정지](https://subby.tistory.com/752)
@@ -46,4 +46,4 @@
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [가천대학교 수시등급(2019) :: 스페셜스터디](https://specialstudy.tistory.com/129)
 - [20200318_코스피/코스닥 일거래현황 및 피봇데이터](https://ddoddoing.tistory.com/232)
-- [달공이 2018년 8월 20일 일별 주식 상승률 상위 테마 종목 정보 :: 달공....](https://dal02stock.tistory.com/21878)
+- [달공이 2018년 8월 22일 일별 주식 상승률 상위 테마 종목 정보 :: 달공....](https://dal02stock.tistory.com/21940)
