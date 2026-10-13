@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-13 20:37:03**
+마지막 업데이트: **📅 2026-10-13 23:49:57**
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🔹 #우리FISA 검색 결과
 - [[Docker] Multi Stage Build](https://veritasgarage.tistory.com/260)
 - [[<b>우리FISA</b>] NumPy](https://veritasgarage.tistory.com/242)
-- [&lt;부모님과 함께 떠나는 스페인 자유여행 시작 &gt; 바르셀로나 입국심....](https://blog.naver.com/april6354/223362630327)
+- [[REST API] REST API란?](https://blog.naver.com/leebrain39/223343978991)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [[알라딘서재][100자평] 요즘 당근 <b>AI</b> 개발](https://blog.aladin.co.kr/744557293/16823980)
@@ -46,4 +46,4 @@
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [가천대학교 수시등급(2019) :: 스페셜스터디](https://specialstudy.tistory.com/129)
 - [2024년 국립한국교통대학교 등록금, 취업률, 기숙사 시설, 기숙사비, ....](https://mom-hits-paydirt.tistory.com/2687)
-- [20200318_코스피/코스닥 일거래현황 및 피봇데이터](https://ddoddoing.tistory.com/232)
+- [달공이 2018년 8월 22일 일별 주식 상승률 상위 테마 종목 정보 :: 달공....](https://dal02stock.tistory.com/21940)
