@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-15 06:27:25**
+마지막 업데이트: **📅 2026-10-15 11:49:48**
 
 ---
 
@@ -21,7 +21,7 @@
 ### 🔹 #우리FIS아카데미 검색 결과
 - [왕숙 <b>우리</b>금융 AI 디지털 유니버스, 착공 언제?](https://blog.naver.com/shimwom/224441100826)
 - [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
-- [[커리어회고] 3. 첫 회사 경험과 채용형 인턴 탈락. 쉬었음 청년의 개....](https://blog.naver.com/leebrain39/224363305698)
+- [<b>우리</b>WON 청년 IT <b>아카데미</b>｜무료교육·지원조건·취업연계 총정리](https://blog.naver.com/harurealme/224390505639)
 
 ### 🔹 #우리FISA 검색 결과
 - [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
@@ -44,6 +44,6 @@
 - [<b>우리</b>WON 청년 IT 아카데미｜무료교육·지원조건·취업연계 총정리](https://blog.naver.com/harurealme/224390505639)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [한국뉴욕주립대학교 전기전자공학과(Electrical Engineering) 소개](https://blog.naver.com/sensasion/224371584189)
 - [[송도<b>글로벌</b><b>캠퍼스</b>] 한국유타대학교 개설전공 정리](https://blog.naver.com/tgadcref3sc/224389725226)
+- [한국뉴욕주립대학교 전기전자공학과(Electrical Engineering) 소개](https://blog.naver.com/sensasion/224371584189)
 - [2027 한국폴리텍대학 서울강서<b>캠퍼스</b> 수시 입결 3개년 등급과 실무 ....](https://blog.naver.com/campustrip-news/224403803224)
