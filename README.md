@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-15 15:45:48**
+마지막 업데이트: **📅 2026-10-15 19:23:31**
 
 ---
 
@@ -36,7 +36,7 @@
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K</b>-<b>디지털트레이닝</b> AI 교육 신청 방법, 직장인·취준생이 지금 확인할 ....](https://blog.naver.com/notriklog/224438396447)
 - [2026년 <b>K</b>-<b>디지털 트레이닝</b> 본인부담금 신설과 지원 혜택 확인하기](https://blog.naver.com/dononote/224431327408)
-- [<b>K</b>-<b>디지털 트레이닝</b>은 재취업에 정말 도움이 될까요?](https://blog.naver.com/restartjob365/224442318493)
+- [2026 <b>K</b>-<b>디지털 트레이닝</b>, 수강료 90% 이상 지원·자기부담 최대 60만원....](https://blog.naver.com/hugstore365/224434629601)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리</b>WON 청년IT 아카데미 1기 발대식 후기 | 금융 IT를 배우는 4개월의 ....](https://blog.naver.com/chowhatwhat/224395187139)
@@ -45,5 +45,5 @@
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [[송도<b>글로벌</b><b>캠퍼스</b>] 한국유타대학교 개설전공 정리](https://blog.naver.com/tgadcref3sc/224389725226)
-- [한국뉴욕주립대학교 전기전자공학과(Electrical Engineering) 소개](https://blog.naver.com/sensasion/224371584189)
 - [2027 한국폴리텍대학 서울강서<b>캠퍼스</b> 수시 입결 3개년 등급과 실무 ....](https://blog.naver.com/campustrip-news/224403803224)
+- [한국뉴욕주립대학교 전기전자공학과(Electrical Engineering) 소개](https://blog.naver.com/sensasion/224371584189)
