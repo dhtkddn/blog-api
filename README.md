@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-17 09:03:24**
+마지막 업데이트: **📅 2026-10-17 12:53:01**
 
 ---
 
@@ -31,11 +31,11 @@
 ### 🔹 #AI엔지니어링 검색 결과
 - [[<b>AI</b> 도구] 따라 만드는 <b>AI</b> 프로젝트 66개: 에이전트·RAG·OCR 실전 예제 ....](https://blog.naver.com/insight-solution/224437639081)
 - [안산고잔동<b>AI</b>학원ㅣ처음 시작하는 <b>ai</b> 프롬프트 <b>엔지니어링</b>, 이미지 ....](https://blog.naver.com/ansansbs_/224441413664)
-- [하네스 <b>엔지니어링</b>이란? <b>AI</b>가 끝까지 일하게 만드는 설계](https://blog.naver.com/ioncomm/224434193006)
+- [주성<b>엔지니어링</b> 주가 급등 이유 <b>AI</b> 반도체 ALD 장비 수주잔고 실적 전....](https://blog.naver.com/semoshu/224434167309)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [<b>K</b>-<b>디지털트레이닝</b> AI 교육 신청 방법, 직장인·취준생이 지금 확인할 ....](https://blog.naver.com/notriklog/224438396447)
 - [2026 <b>K</b>-<b>디지털 트레이닝</b>, 수강료 90% 이상 지원·자기부담 최대 60만원....](https://blog.naver.com/hugstore365/224434629601)
+- [<b>K</b>-<b>디지털트레이닝</b> AI 교육 신청 방법, 직장인·취준생이 지금 확인할 ....](https://blog.naver.com/notriklog/224438396447)
 - [<b>K</b>-<b>디지털 트레이닝</b>은 재취업에 정말 도움이 될까요?](https://blog.naver.com/restartjob365/224442318493)
 
 ### 🔹 #우리에프아이에스 검색 결과
@@ -44,6 +44,6 @@
 - [<b>우리</b>WON 청년 IT 아카데미｜금융IT·AI 600시간 교육·지원금 총정리](https://blog.naver.com/smilenaso/224401636834)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [2027 한국폴리텍대학 서울강서<b>캠퍼스</b> 수시 입결 3개년 등급과 실무 ....](https://blog.naver.com/campustrip-news/224403803224)
 - [한국뉴욕주립대학교 전기전자공학과(Electrical Engineering) 소개](https://blog.naver.com/sensasion/224371584189)
+- [2027 한국폴리텍대학 서울강서<b>캠퍼스</b> 수시 입결 3개년 등급과 실무 ....](https://blog.naver.com/campustrip-news/224403803224)
 - [[IT Trend] AI 에이전트, 생성을 넘어 기업 현장으로](https://blog.naver.com/globalsoftwarecampus/224443673922)
