@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-18 16:09:08**
+마지막 업데이트: **📅 2026-10-18 18:35:29**
 
 ---
 
@@ -40,8 +40,8 @@
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리</b>WON 청년IT 아카데미 1기 발대식 후기 | 금융 IT를 배우는 4개월의 ....](https://blog.naver.com/chowhatwhat/224395187139)
-- [<b>우리</b>금융, 국내 최대 금융 데이터센터 구축 프로젝트분석](https://blog.naver.com/unionsearch777/224443502147)
 - [<b>우리</b>WON 청년 IT 아카데미｜금융IT·AI 600시간 교육·지원금 총정리](https://blog.naver.com/smilenaso/224401636834)
+- [<b>우리</b>금융, 국내 최대 금융 데이터센터 구축 프로젝트분석](https://blog.naver.com/unionsearch777/224443502147)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [[IT Trend] AI 에이전트, 생성을 넘어 기업 현장으로](https://blog.naver.com/globalsoftwarecampus/224443673922)
