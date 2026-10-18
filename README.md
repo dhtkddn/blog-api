@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-18 08:55:22**
+마지막 업데이트: **📅 2026-10-18 12:49:12**
 
 ---
 
@@ -44,6 +44,6 @@
 - [<b>우리</b>WON 청년 IT 아카데미｜금융IT·AI 600시간 교육·지원금 총정리](https://blog.naver.com/smilenaso/224401636834)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [한국뉴욕주립대학교 전기전자공학과(Electrical Engineering) 소개](https://blog.naver.com/sensasion/224371584189)
 - [[IT Trend] AI 에이전트, 생성을 넘어 기업 현장으로](https://blog.naver.com/globalsoftwarecampus/224443673922)
 - [2027 한국폴리텍대학 서울강서<b>캠퍼스</b> 수시 입결 3개년 등급과 실무 ....](https://blog.naver.com/campustrip-news/224403803224)
+- [한국뉴욕주립대학교 전기전자공학과(Electrical Engineering) 소개](https://blog.naver.com/sensasion/224371584189)
