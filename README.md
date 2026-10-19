@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-19 10:38:36**
+마지막 업데이트: **📅 2026-10-19 17:08:10**
 
 ---
 
@@ -29,14 +29,14 @@
 - [<b>우리</b> FIS 아카데미 (<b>우리</b> FlSA) AI 엔지니어링 17주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224266016025)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [RevEng.<b>AI</b> 리버스 <b>엔지니어링</b> <b>AI</b> 총정리, 소스코드 없이 실행파일 뜯어....](https://blog.naver.com/russianbluechangwon/224444072329)
 - [[<b>AI</b> 도구] 따라 만드는 <b>AI</b> 프로젝트 66개: 에이전트·RAG·OCR 실전 예제 ....](https://blog.naver.com/insight-solution/224437639081)
+- [RevEng.<b>AI</b> 리버스 <b>엔지니어링</b> <b>AI</b> 총정리, 소스코드 없이 실행파일 뜯어....](https://blog.naver.com/russianbluechangwon/224444072329)
 - [안산고잔동<b>AI</b>학원ㅣ처음 시작하는 <b>ai</b> 프롬프트 <b>엔지니어링</b>, 이미지 ....](https://blog.naver.com/ansansbs_/224441413664)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [2026 <b>K</b>-<b>디지털 트레이닝</b>, 수강료 90% 이상 지원·자기부담 최대 60만원....](https://blog.naver.com/hugstore365/224434629601)
 - [<b># K 디지털 트레이닝</b> (KDT) 완벽 가이드: 코딩 부트캠프 무료로 듣고 ....](https://blog.naver.com/wkqekwkqtlr_/224387751297)
-- [<b>K</b>-<b>디지털 트레이닝</b>(KDT) 내용, 방문신청 절차까지 총정리](https://blog.naver.com/jamon92/224407902243)
+- [<b>K</b>-<b>디지털 트레이닝</b> 훈련장려금, 내일배움카드와 별개로 더 받을 수 ....](https://blog.naver.com/donjupjup/224420564337)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리</b>WON 청년IT 아카데미 1기 발대식 후기 | 금융 IT를 배우는 4개월의 ....](https://blog.naver.com/chowhatwhat/224395187139)
