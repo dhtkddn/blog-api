@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-19 05:02:48**
+마지막 업데이트: **📅 2026-10-19 10:38:36**
 
 ---
 
@@ -44,6 +44,6 @@
 - [<b>우리</b>금융, 국내 최대 금융 데이터센터 구축 프로젝트분석](https://blog.naver.com/unionsearch777/224443502147)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [[IT Trend] AI 에이전트, 생성을 넘어 기업 현장으로](https://blog.naver.com/globalsoftwarecampus/224443673922)
 - [2027 한국폴리텍대학 서울강서<b>캠퍼스</b> 수시 입결 3개년 등급과 실무 ....](https://blog.naver.com/campustrip-news/224403803224)
 - [한국뉴욕주립대학교 전기전자공학과(Electrical Engineering) 소개](https://blog.naver.com/sensasion/224371584189)
+- [[송도<b>글로벌</b><b>캠퍼스</b>] 한국유타대학교 개설전공 정리](https://blog.naver.com/tgadcref3sc/224389725226)
