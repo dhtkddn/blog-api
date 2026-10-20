@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-20 05:04:44**
+마지막 업데이트: **📅 2026-10-20 09:56:41**
 
 ---
 
@@ -25,12 +25,12 @@
 
 ### 🔹 #우리FISA 검색 결과
 - [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
+- [<b>우리</b> FIS 아카데미 (<b>우리</b> FlSA) AI 엔지니어링 25주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224322835509)
 - [<b>우리</b>WON 청년 IT 아카데미｜무료교육·지원조건·취업연계 총정리](https://blog.naver.com/harurealme/224390505639)
-- [<b>우리</b> FIS 아카데미 (<b>우리</b> FlSA) AI 엔지니어링 17주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224266016025)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [[<b>AI</b> 도구] 따라 만드는 <b>AI</b> 프로젝트 66개: 에이전트·RAG·OCR 실전 예제 ....](https://blog.naver.com/insight-solution/224437639081)
 - [RevEng.<b>AI</b> 리버스 <b>엔지니어링</b> <b>AI</b> 총정리, 소스코드 없이 실행파일 뜯어....](https://blog.naver.com/russianbluechangwon/224444072329)
+- [[<b>AI</b> 도구] 따라 만드는 <b>AI</b> 프로젝트 66개: 에이전트·RAG·OCR 실전 예제 ....](https://blog.naver.com/insight-solution/224437639081)
 - [프롬프트 <b>엔지니어링</b> 다음은? 컨텍스트 <b>엔지니어링</b>부터 <b>AI</b> 활용 역....](https://blog.naver.com/ko072777/224443412661)
 
 ### 🔹 #K디지털트레이닝 검색 결과
@@ -44,6 +44,6 @@
 - [<b>우리</b>금융, 국내 최대 금융 데이터센터 구축 프로젝트분석](https://blog.naver.com/unionsearch777/224443502147)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [[송도<b>글로벌</b><b>캠퍼스</b>] 한국유타대학교 개설전공 정리](https://blog.naver.com/tgadcref3sc/224389725226)
-- [2027 한국폴리텍대학 서울강서<b>캠퍼스</b> 수시 입결 3개년 등급과 실무 ....](https://blog.naver.com/campustrip-news/224403803224)
 - [한국뉴욕주립대학교 전기전자공학과(Electrical Engineering) 소개](https://blog.naver.com/sensasion/224371584189)
+- [[IT Trend] AI 에이전트, 생성을 넘어 기업 현장으로](https://blog.naver.com/globalsoftwarecampus/224443673922)
+- [컴퓨터공학과 <b>소프트웨어</b>학과 대학 입결 순위 정리](https://blog.naver.com/doublepapa/224409572504)
