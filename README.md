@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-20 00:28:09**
+마지막 업데이트: **📅 2026-10-20 05:04:44**
 
 ---
 
@@ -20,8 +20,8 @@
 
 ### 🔹 #우리FIS아카데미 검색 결과
 - [왕숙 <b>우리</b>금융 AI 디지털 유니버스, 착공 언제?](https://blog.naver.com/shimwom/224441100826)
-- [<b>우리</b>금융, 국내 최대 금융 데이터센터 구축 프로젝트분석](https://blog.naver.com/unionsearch777/224443502147)
 - [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
+- [<b>우리</b>금융, 국내 최대 금융 데이터센터 구축 프로젝트분석](https://blog.naver.com/unionsearch777/224443502147)
 
 ### 🔹 #우리FISA 검색 결과
 - [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
@@ -31,7 +31,7 @@
 ### 🔹 #AI엔지니어링 검색 결과
 - [[<b>AI</b> 도구] 따라 만드는 <b>AI</b> 프로젝트 66개: 에이전트·RAG·OCR 실전 예제 ....](https://blog.naver.com/insight-solution/224437639081)
 - [RevEng.<b>AI</b> 리버스 <b>엔지니어링</b> <b>AI</b> 총정리, 소스코드 없이 실행파일 뜯어....](https://blog.naver.com/russianbluechangwon/224444072329)
-- [안산고잔동<b>AI</b>학원ㅣ처음 시작하는 <b>ai</b> 프롬프트 <b>엔지니어링</b>, 이미지 ....](https://blog.naver.com/ansansbs_/224441413664)
+- [프롬프트 <b>엔지니어링</b> 다음은? 컨텍스트 <b>엔지니어링</b>부터 <b>AI</b> 활용 역....](https://blog.naver.com/ko072777/224443412661)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b># K 디지털 트레이닝</b> (KDT) 완벽 가이드: 코딩 부트캠프 무료로 듣고 ....](https://blog.naver.com/wkqekwkqtlr_/224387751297)
