@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-20 18:39:03**
+마지막 업데이트: **📅 2026-10-20 21:50:07**
 
 ---
 
@@ -35,8 +35,8 @@
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b># K 디지털 트레이닝</b> (KDT) 완벽 가이드: 코딩 부트캠프 무료로 듣고 ....](https://blog.naver.com/wkqekwkqtlr_/224387751297)
-- [2026 <b>K</b>-<b>디지털 트레이닝</b>(KDT) 국비 무료 코딩 교육 총정리 (수강료 1,000....](https://blog.naver.com/berich1004/224447387836)
 - [<b>K</b>-<b>디지털 트레이닝</b> 훈련장려금, 내일배움카드와 별개로 더 받을 수 ....](https://blog.naver.com/donjupjup/224420564337)
+- [2026 <b>K</b>-<b>디지털 트레이닝</b>(KDT) 국비 무료 코딩 교육 총정리 (수강료 1,000....](https://blog.naver.com/berich1004/224447387836)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리</b>WON 청년 IT 아카데미｜금융IT·AI 600시간 교육·지원금 총정리](https://blog.naver.com/smilenaso/224401636834)
@@ -44,6 +44,6 @@
 - [<b>우리</b>금융, 국내 최대 금융 데이터센터 구축 프로젝트분석](https://blog.naver.com/unionsearch777/224443502147)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
+- [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
 - [한국뉴욕주립대학교 전기전자공학과(Electrical Engineering) 소개](https://blog.naver.com/sensasion/224371584189)
 - [[2027 전공소개] <b>소프트웨어</b>융합대학](https://blog.naver.com/hyerica4473/224359297646)
-- [송도<b>글로벌</b><b>캠퍼스</b> 대표주자: 한국뉴욕주립대학교(SUNY Korea) 스토니....](https://blog.naver.com/qorguls39/224399439058)
