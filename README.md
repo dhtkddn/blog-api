@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-22 05:05:31**
+마지막 업데이트: **📅 2026-10-22 10:01:26**
 
 ---
 
@@ -30,8 +30,8 @@
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [RevEng.<b>AI</b> 리버스 <b>엔지니어링</b> <b>AI</b> 총정리, 소스코드 없이 실행파일 뜯어....](https://blog.naver.com/russianbluechangwon/224444072329)
-- [REA 총정리 - <b>AI</b> 에이전트 리버스<b>엔지니어링</b> MCP 설치법과 Ghidra 활용 (....](https://blog.naver.com/bulldak02/224443092567)
 - [[<b>AI</b> 도구] 따라 만드는 <b>AI</b> 프로젝트 66개: 에이전트·RAG·OCR 실전 예제 ....](https://blog.naver.com/insight-solution/224437639081)
+- [[커리어코드] 하네스 <b>엔지니어링</b>이란? — <b>AI</b>에게 '일할 자리'를 만들....](https://blog.naver.com/aicareercode/224443871339)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [2026 <b>K</b>-<b>디지털 트레이닝</b>(KDT) 국비 무료 코딩 교육 총정리 (수강료 1,000....](https://blog.naver.com/berich1004/224447387836)
@@ -40,8 +40,8 @@
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리</b>WON 청년 IT 아카데미｜금융IT·AI 600시간 교육·지원금 총정리](https://blog.naver.com/smilenaso/224401636834)
-- [<b>우리</b>WON 청년 IT 아카데미｜무료교육·지원조건·취업연계 총정리](https://blog.naver.com/harurealme/224390505639)
 - [<b>우리</b>WON 청년IT 아카데미 1기 발대식 후기 | 금융 IT를 배우는 4개월의 ....](https://blog.naver.com/chowhatwhat/224395187139)
+- [<b>우리</b>금융, 국내 최대 금융 데이터센터 구축 프로젝트분석](https://blog.naver.com/unionsearch777/224443502147)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [[고려대입결비교] 같은 고대인데 백분위 20점 차이? 서울 vs 세종캠퍼....](https://blog.naver.com/issueanalist/224431998003)
