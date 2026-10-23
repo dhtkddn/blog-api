@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-23 18:34:21**
+마지막 업데이트: **📅 2026-10-23 21:35:28**
 
 ---
 
@@ -46,4 +46,4 @@
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [[고려대입결비교] 같은 고대인데 백분위 20점 차이? 서울 vs 세종캠퍼....](https://blog.naver.com/issueanalist/224431998003)
 - [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
-- [한국뉴욕주립대학교 전기전자공학과(Electrical Engineering) 소개](https://blog.naver.com/sensasion/224371584189)
+- [[GSC Tip] AI 시대에도 엑셀을 배워야 할까?](https://blog.naver.com/globalsoftwarecampus/224447719758)
