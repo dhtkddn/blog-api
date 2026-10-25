@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-25 05:10:36**
+마지막 업데이트: **📅 2026-10-25 09:45:50**
 
 ---
 
@@ -31,7 +31,7 @@
 ### 🔹 #AI엔지니어링 검색 결과
 - [<b>엔지니어링</b> <b>AI</b> 에이전트 통제하고 업무 효율 10배 올리는 실전 가이....](https://blog.naver.com/aicrafter/224446684101)
 - [RevEng.<b>AI</b> 리버스 <b>엔지니어링</b> <b>AI</b> 총정리, 소스코드 없이 실행파일 뜯어....](https://blog.naver.com/russianbluechangwon/224444072329)
-- [군산에 60MW <b>AI</b> 데이터센터, 현대<b>엔지니어링</b> 대형 사업 수주](https://blog.naver.com/jony97/224450570012)
+- [<b>AI</b> 질문 하나로 성과 10배 만드는 프롬프트 <b>엔지니어링</b> 완벽 가이드](https://blog.naver.com/infostorage365/224452941391)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [국민내일배움카드로 AI 교육 신청하기: 2026 <b>K디지털트레이닝</b> 조건과 ....](https://blog.naver.com/honey0421/224451495136)
@@ -44,6 +44,6 @@
 - [<b>우리</b>WON 청년 IT 아카데미｜금융IT·AI 600시간 교육·지원금 총정리](https://blog.naver.com/smilenaso/224401636834)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [컴퓨터공학과 <b>소프트웨어</b>학과 대학 입결 순위 정리](https://blog.naver.com/doublepapa/224409572504)
 - [[고려대입결비교] 같은 고대인데 백분위 20점 차이? 서울 vs 세종캠퍼....](https://blog.naver.com/issueanalist/224431998003)
+- [컴퓨터공학과 <b>소프트웨어</b>학과 대학 입결 순위 정리](https://blog.naver.com/doublepapa/224409572504)
 - [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
