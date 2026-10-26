@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-26 02:04:59**
+마지막 업데이트: **📅 2026-10-26 07:41:57**
 
 ---
 
@@ -31,12 +31,12 @@
 ### 🔹 #AI엔지니어링 검색 결과
 - [<b>엔지니어링</b> <b>AI</b> 에이전트 통제하고 업무 효율 10배 올리는 실전 가이....](https://blog.naver.com/aicrafter/224446684101)
 - [하네스 <b>엔지니어링</b>｜<b>AI</b>에게도 안전벨트가 필요하다고?](https://blog.naver.com/boribom5/224449408542)
-- [RevEng.<b>AI</b> 리버스 <b>엔지니어링</b> <b>AI</b> 총정리, 소스코드 없이 실행파일 뜯어....](https://blog.naver.com/russianbluechangwon/224444072329)
+- [REA 총정리 - <b>AI</b> 에이전트 리버스<b>엔지니어링</b> MCP 설치법과 Ghidra 활용 (....](https://blog.naver.com/bulldak02/224443092567)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [국민내일배움카드로 AI 교육 신청하기: 2026 <b>K디지털트레이닝</b> 조건과 ....](https://blog.naver.com/honey0421/224451495136)
 - [&quot;내 돈 내고 학원 가면 호구?&quot; 2026 내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> ....](https://blog.naver.com/gunmu/224448124075)
 - [<b># K 디지털 트레이닝</b> (KDT) 완벽 가이드: 코딩 부트캠프 무료로 듣고 ....](https://blog.naver.com/wkqekwkqtlr_/224387751297)
+- [<b>K</b>-<b>디지털트레이닝</b>이란 정확히 무엇인가](https://blog.naver.com/megaitacademy/224448035903)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
@@ -46,4 +46,4 @@
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [컴퓨터공학과 <b>소프트웨어</b>학과 대학 입결 순위 정리](https://blog.naver.com/doublepapa/224409572504)
 - [[고려대입결비교] 같은 고대인데 백분위 20점 차이? 서울 vs 세종캠퍼....](https://blog.naver.com/issueanalist/224431998003)
-- [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
+- [[IT Trend] AI가 <b>소프트웨어</b>의 화면을 없앤다… SaaS는 살아남을까?](https://blog.naver.com/globalsoftwarecampus/224450304350)
