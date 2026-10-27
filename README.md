@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-27 14:19:43**
+마지막 업데이트: **📅 2026-10-27 19:28:08**
 
 ---
 
@@ -24,13 +24,13 @@
 - [왕숙 <b>우리</b>금융 AI 디지털 유니버스, 착공 언제?](https://blog.naver.com/shimwom/224441100826)
 
 ### 🔹 #우리FISA 검색 결과
-- [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
 - [<b>우리</b> FIS 아카데미 (<b>우리</b> FlSA) AI 엔지니어링 25주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224322835509)
+- [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
 - [<b>우리</b>WON 청년 IT 아카데미｜무료교육·지원조건·취업연계 총정리](https://blog.naver.com/harurealme/224390505639)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [<b>엔지니어링</b> <b>AI</b> 에이전트 통제하고 업무 효율 10배 올리는 실전 가이....](https://blog.naver.com/aicrafter/224446684101)
-- [REA 총정리 - <b>AI</b> 에이전트 리버스<b>엔지니어링</b> MCP 설치법과 Ghidra 활용 (....](https://blog.naver.com/bulldak02/224443092567)
+- [리버스 <b>엔지니어링</b> <b>AI</b>｜REA 사용방법과 주의할 점](https://blog.naver.com/to_ris/224454143565)
 - [<b>AI</b> 리버스 <b>엔지니어링</b>, REA](https://blog.naver.com/calvinsmith/224449458468)
 
 ### 🔹 #K디지털트레이닝 검색 결과
