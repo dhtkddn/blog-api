@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-27 02:25:33**
+마지막 업데이트: **📅 2026-10-27 08:03:36**
 
 ---
 
@@ -31,7 +31,7 @@
 ### 🔹 #AI엔지니어링 검색 결과
 - [<b>엔지니어링</b> <b>AI</b> 에이전트 통제하고 업무 효율 10배 올리는 실전 가이....](https://blog.naver.com/aicrafter/224446684101)
 - [REA 총정리 - <b>AI</b> 에이전트 리버스<b>엔지니어링</b> MCP 설치법과 Ghidra 활용 (....](https://blog.naver.com/bulldak02/224443092567)
-- [리버스 <b>엔지니어링</b> <b>AI</b>｜REA 사용방법과 주의할 점](https://blog.naver.com/to_ris/224454143565)
+- [<b>AI</b> 리버스 <b>엔지니어링</b>, REA](https://blog.naver.com/calvinsmith/224449458468)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [&quot;내 돈 내고 학원 가면 호구?&quot; 2026 내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> ....](https://blog.naver.com/gunmu/224448124075)
