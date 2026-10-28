@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-28 02:02:40**
+마지막 업데이트: **📅 2026-10-28 08:11:48**
 
 ---
 
@@ -20,8 +20,8 @@
 
 ### 🔹 #우리FIS아카데미 검색 결과
 - [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
-- [<b>우리</b>금융, 국내 최대 금융 데이터센터 구축 프로젝트분석](https://blog.naver.com/unionsearch777/224443502147)
 - [왕숙 <b>우리</b>금융 AI 디지털 유니버스, 착공 언제?](https://blog.naver.com/shimwom/224441100826)
+- [<b>우리 FIS 아카데미</b> (<b>우리</b> FlSA) AI 엔지니어링 25주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224322835509)
 
 ### 🔹 #우리FISA 검색 결과
 - [<b>우리</b> FIS 아카데미 (<b>우리</b> FlSA) AI 엔지니어링 25주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224322835509)
@@ -30,13 +30,13 @@
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [<b>엔지니어링</b> <b>AI</b> 에이전트 통제하고 업무 효율 10배 올리는 실전 가이....](https://blog.naver.com/aicrafter/224446684101)
-- [<b>AI</b> 리버스 <b>엔지니어링</b>, REA](https://blog.naver.com/calvinsmith/224449458468)
 - [리버스 <b>엔지니어링</b> <b>AI</b>｜REA 사용방법과 주의할 점](https://blog.naver.com/to_ris/224454143565)
+- [하네스 <b>엔지니어링</b>｜<b>AI</b>에게도 안전벨트가 필요하다고?](https://blog.naver.com/boribom5/224449408542)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [&quot;내 돈 내고 학원 가면 호구?&quot; 2026 내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> ....](https://blog.naver.com/gunmu/224448124075)
 - [1인 사업자도 <b>K</b>-<b>디지털 트레이닝</b> 들을 수 있을까? 내일배움카드 제외....](https://blog.naver.com/mudita99/224453258444)
-- [<b>K</b>-<b>디지털 트레이닝</b>(KDT)·AI Campus : 일반 내일배움카드 과정과 완벽 비....](https://blog.naver.com/job_sunspring/224451624064)
+- [국민내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> 전액지원 및 훈련장려금 수령 ....](https://blog.naver.com/free_cat-/224453824374)
+- [&quot;내 돈 내고 학원 가면 호구?&quot; 2026 내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> ....](https://blog.naver.com/gunmu/224448124075)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
