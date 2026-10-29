@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-29 17:06:13**
+마지막 업데이트: **📅 2026-10-29 21:44:17**
 
 ---
 
@@ -31,12 +31,12 @@
 ### 🔹 #AI엔지니어링 검색 결과
 - [<b>엔지니어링</b> <b>AI</b> 에이전트 통제하고 업무 효율 10배 올리는 실전 가이....](https://blog.naver.com/aicrafter/224446684101)
 - [리버스 <b>엔지니어링</b> <b>AI</b>, 코딩 에이전트가 프로그램 속을 들여다보는 ....](https://blog.naver.com/kokiorea/224441929024)
-- [REA 총정리 - <b>AI</b> 에이전트 리버스<b>엔지니어링</b> MCP 설치법과 Ghidra 활용 (....](https://blog.naver.com/bulldak02/224443092567)
+- [<b>AI</b> 에이전트 루프 <b>엔지니어링</b>이란? Claude Code 팀이 정리한 4가지 유형....](https://blog.naver.com/jungmj8590/224457423711)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [국민내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> 전액지원 및 훈련장려금 수령 ....](https://blog.naver.com/free_cat-/224453824374)
 - [&quot;내 돈 내고 학원 가면 호구?&quot; 2026 내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> ....](https://blog.naver.com/gunmu/224448124075)
-- [1인 사업자도 <b>K</b>-<b>디지털 트레이닝</b> 들을 수 있을까? 내일배움카드 제외....](https://blog.naver.com/mudita99/224453258444)
+- [<b># K 디지털 트레이닝</b> (KDT) 완벽 가이드: 코딩 부트캠프 무료로 듣고 ....](https://blog.naver.com/wkqekwkqtlr_/224387751297)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
@@ -45,5 +45,5 @@
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [컴퓨터공학과 <b>소프트웨어</b>학과 대학 입결 순위 정리](https://blog.naver.com/doublepapa/224409572504)
+- [한국뉴욕주립대학교 전기전자공학과(Electrical Engineering) 소개](https://blog.naver.com/sensasion/224371584189)
 - [[고려대입결비교] 같은 고대인데 백분위 20점 차이? 서울 vs 세종캠퍼....](https://blog.naver.com/issueanalist/224431998003)
-- [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
