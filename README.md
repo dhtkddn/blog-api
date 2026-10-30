@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-10-30 01:20:52**
+마지막 업데이트: **📅 2026-10-30 07:15:55**
 
 ---
 
@@ -29,9 +29,9 @@
 - [<b>우리</b>WON 청년 IT 아카데미｜무료교육·지원조건·취업연계 총정리](https://blog.naver.com/harurealme/224390505639)
 
 ### 🔹 #AI엔지니어링 검색 결과
+- [[책읽기] <b>AI</b> 엔지니어가 꼽는 필독서 9권: 『<b>AI</b> Engineering』부터 『Build ....](https://blog.naver.com/insight-solution/224452013197)
 - [<b>엔지니어링</b> <b>AI</b> 에이전트 통제하고 업무 효율 10배 올리는 실전 가이....](https://blog.naver.com/aicrafter/224446684101)
-- [리버스 <b>엔지니어링</b> <b>AI</b>, 코딩 에이전트가 프로그램 속을 들여다보는 ....](https://blog.naver.com/kokiorea/224441929024)
-- [<b>AI</b> 에이전트 루프 <b>엔지니어링</b>이란? Claude Code 팀이 정리한 4가지 유형....](https://blog.naver.com/jungmj8590/224457423711)
+- [수원<b>AI</b> 학원 | 프롬프트 <b>엔지니어링</b> 배우기, 챗GPT·미드저니로 문서....](https://blog.naver.com/sbsac_jm/224457940569)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [국민내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> 전액지원 및 훈련장려금 수령 ....](https://blog.naver.com/free_cat-/224453824374)
