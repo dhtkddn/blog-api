@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-01 06:29:48**
+마지막 업데이트: **📅 2026-11-01 13:40:53**
 
 ---
 
@@ -19,8 +19,8 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
-- [왕숙 <b>우리</b>금융 AI 디지털 유니버스, 착공 언제?](https://blog.naver.com/shimwom/224441100826)
 - [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
+- [왕숙 <b>우리</b>금융 AI 디지털 유니버스, 착공 언제?](https://blog.naver.com/shimwom/224441100826)
 - [<b>우리 FIS 아카데미</b> (<b>우리</b> FlSA) AI 엔지니어링 25주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224322835509)
 
 ### 🔹 #우리FISA 검색 결과
@@ -31,12 +31,12 @@
 ### 🔹 #AI엔지니어링 검색 결과
 - [[책읽기] <b>AI</b> 엔지니어가 꼽는 필독서 9권: 『<b>AI</b> Engineering』부터 『Build ....](https://blog.naver.com/insight-solution/224452013197)
 - [<b>엔지니어링</b> <b>AI</b> 에이전트 통제하고 업무 효율 10배 올리는 실전 가이....](https://blog.naver.com/aicrafter/224446684101)
-- [수원<b>AI</b> 학원 | 프롬프트 <b>엔지니어링</b> 배우기, 챗GPT·미드저니로 문서....](https://blog.naver.com/sbsac_jm/224457940569)
+- [리버스 <b>엔지니어링</b> <b>AI</b>｜REA 사용방법과 주의할 점](https://blog.naver.com/to_ris/224454143565)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [비전공자도 매달 30만원 받습니다, <b>K디지털 트레이닝</b> 훈련장려금과 ....](https://blog.naver.com/zkdhtm1346/224460812953)
 - [&quot;내 돈 내고 학원 가면 호구?&quot; 2026 내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> ....](https://blog.naver.com/gunmu/224448124075)
-- [국민내일배움카드 <b>K</b>-<b>디지털 트레이닝</b> 전액지원 및 훈련장려금 수령 ....](https://blog.naver.com/free_cat-/224453824374)
+- [<b>K</b>-<b>디지털 트레이닝</b>(KDT)·AI Campus : 일반 내일배움카드 과정과 완벽 비....](https://blog.naver.com/job_sunspring/224451624064)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
