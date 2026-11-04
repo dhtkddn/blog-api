@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-04 14:46:05**
+마지막 업데이트: **📅 2026-11-04 20:56:26**
 
 ---
 
@@ -31,12 +31,12 @@
 ### 🔹 #AI엔지니어링 검색 결과
 - [[책읽기] <b>AI</b> 엔지니어가 꼽는 필독서 9권: 『<b>AI</b> Engineering』부터 『Build ....](https://blog.naver.com/insight-solution/224452013197)
 - [<b>엔지니어링</b> <b>AI</b> 에이전트 통제하고 업무 효율 10배 올리는 실전 가이....](https://blog.naver.com/aicrafter/224446684101)
-- [<b>AI</b> 에이전트 루프 <b>엔지니어링</b>이란? Claude Code 팀이 정리한 4가지 유형....](https://blog.naver.com/jungmj8590/224457423711)
+- [<b>AI</b>용 REA 리버스 <b>엔지니어링</b> 사용법은?](https://blog.naver.com/info2016han/224454140876)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [<b>K</b>-<b>디지털트레이닝</b> vs <b>K</b>-뉴딜아카데미, IT 취업 준비생에게 맞는 교육....](https://blog.naver.com/ara1013/224457839850)
-- [일반고부터 <b>K디지털트레이닝</b>까지, 영상편집 진로를 한 번에 준비하....](https://blog.naver.com/yh_001/224457610181)
 - [비전공자도 매달 30만원 받습니다, <b>K디지털 트레이닝</b> 훈련장려금과 ....](https://blog.naver.com/zkdhtm1346/224460812953)
+- [<b>K</b>-<b>디지털트레이닝</b> vs <b>K</b>-뉴딜아카데미, IT 취업 준비생에게 맞는 교육....](https://blog.naver.com/ara1013/224457839850)
+- [<b># K 디지털 트레이닝</b> (KDT) 완벽 가이드: 코딩 부트캠프 무료로 듣고 ....](https://blog.naver.com/wkqekwkqtlr_/224387751297)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
@@ -46,4 +46,4 @@
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [[고려대입결비교] 같은 고대인데 백분위 20점 차이? 서울 vs 세종캠퍼....](https://blog.naver.com/issueanalist/224431998003)
 - [컴퓨터공학과 <b>소프트웨어</b>학과 대학 입결 순위 정리](https://blog.naver.com/doublepapa/224409572504)
-- [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
+- [송도<b>글로벌</b><b>캠퍼스</b> 대표주자: 한국뉴욕주립대학교(SUNY Korea) 스토니....](https://blog.naver.com/qorguls39/224399439058)
