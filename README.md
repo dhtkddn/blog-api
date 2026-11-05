@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-05 01:08:24**
+마지막 업데이트: **📅 2026-11-05 07:51:54**
 
 ---
 
@@ -30,13 +30,13 @@
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [[책읽기] <b>AI</b> 엔지니어가 꼽는 필독서 9권: 『<b>AI</b> Engineering』부터 『Build ....](https://blog.naver.com/insight-solution/224452013197)
-- [컨텍스트 <b>엔지니어링</b>이란 자료를 더 넣어도 <b>AI</b>가 엉뚱하게 답하는 ....](https://blog.naver.com/namiri_ai/224462888084)
 - [부산<b>AI</b>학원ㅣ<b>AI</b> 프롬프트 <b>엔지니어링</b>, 코딩 몰라도 괜찮아요!](https://blog.naver.com/yjy_0301/224464367535)
+- [컨텍스트 <b>엔지니어링</b>이란 자료를 더 넣어도 <b>AI</b>가 엉뚱하게 답하는 ....](https://blog.naver.com/namiri_ai/224462888084)
 
 ### 🔹 #K디지털트레이닝 검색 결과
+- [<b>K디지털트레이닝</b> 2026 달라진 자부담·수당 정리](https://blog.naver.com/naemokchat/224464117679)
+- [[취업·창업 1탄] 국민내일배움카드로 <b>K</b>-<b>디지털 트레이닝</b> 100% 활용하....](https://blog.naver.com/baramajee/224465994165)
 - [비전공자도 매달 30만원 받습니다, <b>K디지털 트레이닝</b> 훈련장려금과 ....](https://blog.naver.com/zkdhtm1346/224460812953)
-- [<b># K 디지털 트레이닝</b> (KDT) 완벽 가이드: 코딩 부트캠프 무료로 듣고 ....](https://blog.naver.com/wkqekwkqtlr_/224387751297)
-- [<b>K</b>-<b>디지털 트레이닝</b>(KDT) 자부담, 비수도권 구직자는 0원이라고? 실제 ....](https://blog.naver.com/byheesoe/224461951648)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
@@ -46,4 +46,4 @@
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [[고려대입결비교] 같은 고대인데 백분위 20점 차이? 서울 vs 세종캠퍼....](https://blog.naver.com/issueanalist/224431998003)
 - [컴퓨터공학과 <b>소프트웨어</b>학과 대학 입결 순위 정리](https://blog.naver.com/doublepapa/224409572504)
-- [송도<b>글로벌</b><b>캠퍼스</b> 대표주자: 한국뉴욕주립대학교(SUNY Korea) 스토니....](https://blog.naver.com/qorguls39/224399439058)
+- [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
