@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-06 08:30:36**
+마지막 업데이트: **📅 2026-11-06 16:07:11**
 
 ---
 
@@ -25,17 +25,17 @@
 
 ### 🔹 #우리FISA 검색 결과
 - [백엔드·풀스택 개발자 로드맵｜Java·Spring Boot·React·AWS부터 실전 프....](https://blog.naver.com/asmyinformation/224463981407)
-- [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
 - [<b>우리</b> FIS 아카데미 (<b>우리</b> FlSA) AI 엔지니어링 25주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224322835509)
+- [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [[책읽기] <b>AI</b> 엔지니어가 꼽는 필독서 9권: 『<b>AI</b> Engineering』부터 『Build ....](https://blog.naver.com/insight-solution/224452013197)
 - [부산<b>AI</b>학원ㅣ<b>AI</b> 프롬프트 <b>엔지니어링</b>, 코딩 몰라도 괜찮아요!](https://blog.naver.com/yjy_0301/224464367535)
-- [프롬프트 <b>엔지니어링</b> 뜻 업무 질문을 구체화하는 네 가지 요소](https://blog.naver.com/namiri_ai/224459776725)
+- [컨텍스트 <b>엔지니어링</b>이란: <b>AI</b>에게 넘길 자료를 설계하는 법](https://blog.naver.com/worldonthedesk/224454754726)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 2026 달라진 자부담·수당 정리](https://blog.naver.com/naemokchat/224464117679)
-- [<b>K</b>-<b>디지털 트레이닝</b> 2026 신청방법 총정리! 국비지원·훈련수당·자격....](https://blog.naver.com/jjs009_/224463449272)
+- [<b>K</b>-<b>디지털 트레이닝</b> 신청방법과 지원금](https://blog.naver.com/tal14/224465221636)
 - [[취업·창업 1탄] 국민내일배움카드로 <b>K</b>-<b>디지털 트레이닝</b> 100% 활용하....](https://blog.naver.com/baramajee/224465994165)
 
 ### 🔹 #우리에프아이에스 검색 결과
