@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-10 16:58:52**
+마지막 업데이트: **📅 2026-11-10 22:07:14**
 
 ---
 
@@ -31,7 +31,7 @@
 ### 🔹 #AI엔지니어링 검색 결과
 - [[책읽기] <b>AI</b> 엔지니어가 꼽는 필독서 9권: 『<b>AI</b> Engineering』부터 『Build ....](https://blog.naver.com/insight-solution/224452013197)
 - [요즘 핫한 리버스<b>엔지니어링</b> <b>AI</b>, REA 사용법 정리](https://blog.naver.com/upgrade_korean/224466317996)
-- [부산<b>AI</b>학원ㅣ<b>AI</b> 프롬프트 <b>엔지니어링</b>, 코딩 몰라도 괜찮아요!](https://blog.naver.com/yjy_0301/224464367535)
+- [대구그린 <b>AI</b> 에이전트 <b>엔지니어링</b> 과정, 마감 전에 챙길 것들](https://blog.naver.com/greenart_dg/224466313733)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K</b>-<b>디지털 트레이닝</b> 신청방법과 지원금](https://blog.naver.com/tal14/224465221636)
