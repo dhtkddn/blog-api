@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-12 11:32:23**
+마지막 업데이트: **📅 2026-11-12 19:01:24**
 
 ---
 
@@ -29,8 +29,8 @@
 - [<b>우리</b>WON 청년 IT 아카데미｜무료교육·지원조건·취업연계 총정리](https://blog.naver.com/harurealme/224390505639)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [루프 <b>엔지니어링</b>(Loop Engineering)이란? <b>AI</b>가 스스로 일하고 수정하는 시....](https://blog.naver.com/terienglish/224472298327)
 - [요즘 핫한 리버스<b>엔지니어링</b> <b>AI</b>, REA 사용법 정리](https://blog.naver.com/upgrade_korean/224466317996)
+- [루프 <b>엔지니어링</b>(Loop Engineering)이란? <b>AI</b>가 스스로 일하고 수정하는 시....](https://blog.naver.com/terienglish/224472298327)
 - [프롬프트 <b>엔지니어링</b>을 넘어 컨텍스트 <b>엔지니어링</b>으로, 기본이 탄....](https://blog.naver.com/wojjj777/224468237236)
 
 ### 🔹 #K디지털트레이닝 검색 결과
@@ -44,6 +44,6 @@
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [[GSC Tip] 종이를 안 쓰면 친환경?](https://blog.naver.com/globalsoftwarecampus/224467282044)
 - [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
+- [[IT Trend] 테슬라, 제조 영역 확장! 로봇 생산부터 AI 반도체 공장까지](https://blog.naver.com/globalsoftwarecampus/224473893232)
 - [컴퓨터공학과 <b>소프트웨어</b>학과 대학 입결 순위 정리](https://blog.naver.com/doublepapa/224409572504)
