@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-13 04:59:42**
+마지막 업데이트: **📅 2026-11-13 12:51:44**
 
 ---
 
@@ -21,7 +21,7 @@
 ### 🔹 #우리FIS아카데미 검색 결과
 - [<b>우리</b>금융그룹 모바일센터 설치 방법과 <b>우리</b>WON뱅킹 차이, 계열사 6곳....](https://blog.naver.com/rarara412/224424916427)
 - [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
-- [<b>우리 FIS 아카데미</b> (<b>우리</b> FlSA) AI 엔지니어링 19-20주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224289444389)
+- [왕숙 <b>우리</b>금융 AI 디지털 유니버스, 착공 언제?](https://blog.naver.com/shimwom/224441100826)
 
 ### 🔹 #우리FISA 검색 결과
 - [백엔드·풀스택 개발자 로드맵｜Java·Spring Boot·React·AWS부터 실전 프....](https://blog.naver.com/asmyinformation/224463981407)
@@ -31,7 +31,7 @@
 ### 🔹 #AI엔지니어링 검색 결과
 - [<b>AI</b>가 자꾸 엉뚱하게 일한다면? 초보자도 이해하는 하네스 엔지니어....](https://blog.naver.com/educoding/224468553463)
 - [요즘 핫한 리버스<b>엔지니어링</b> <b>AI</b>, REA 사용법 정리](https://blog.naver.com/upgrade_korean/224466317996)
-- [루프 <b>엔지니어링</b>(Loop Engineering)이란? <b>AI</b>가 스스로 일하고 수정하는 시....](https://blog.naver.com/terienglish/224472298327)
+- [직장인 실무 필수템! 코딩 몰라도 바로 쓰는 <b>AI</b> 프롬프트 <b>엔지니어링</b>....](https://blog.naver.com/kgdeco/224475205032)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K</b>-<b>디지털 트레이닝</b> 신청방법과 지원금](https://blog.naver.com/tal14/224465221636)
@@ -46,4 +46,4 @@
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
 - [컴퓨터공학과 <b>소프트웨어</b>학과 대학 입결 순위 정리](https://blog.naver.com/doublepapa/224409572504)
-- [[GSC Tip] 종이를 안 쓰면 친환경?](https://blog.naver.com/globalsoftwarecampus/224467282044)
+- [인천 송도<b>글로벌</b><b>캠퍼스</b> 한국뉴욕주립대 스토니브룩 vs 유타대학교 ....](https://blog.naver.com/oilan/224420108751)
