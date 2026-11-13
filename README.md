@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-12 23:59:11**
+마지막 업데이트: **📅 2026-11-13 04:59:42**
 
 ---
 
@@ -44,6 +44,6 @@
 - [<b>우리</b>WON 청년 IT 아카데미｜금융IT·AI 600시간 교육·지원금 총정리](https://blog.naver.com/smilenaso/224401636834)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [[IT Trend] 테슬라, 제조 영역 확장! 로봇 생산부터 AI 반도체 공장까지](https://blog.naver.com/globalsoftwarecampus/224473893232)
 - [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
 - [컴퓨터공학과 <b>소프트웨어</b>학과 대학 입결 순위 정리](https://blog.naver.com/doublepapa/224409572504)
+- [[GSC Tip] 종이를 안 쓰면 친환경?](https://blog.naver.com/globalsoftwarecampus/224467282044)
