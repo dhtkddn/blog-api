@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-14 00:50:21**
+마지막 업데이트: **📅 2026-11-14 07:04:46**
 
 ---
 
@@ -19,9 +19,9 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
-- [<b>우리</b>금융그룹 모바일센터 설치 방법과 <b>우리</b>WON뱅킹 차이, 계열사 6곳....](https://blog.naver.com/rarara412/224424916427)
 - [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
-- [왕숙 <b>우리</b>금융 AI 디지털 유니버스, 착공 언제?](https://blog.naver.com/shimwom/224441100826)
+- [<b>우리</b>금융그룹 모바일센터 설치 방법과 <b>우리</b>WON뱅킹 차이, 계열사 6곳....](https://blog.naver.com/rarara412/224424916427)
+- [<b>우리</b>금융, 국내 최대 금융 데이터센터 구축 프로젝트분석](https://blog.naver.com/unionsearch777/224443502147)
 
 ### 🔹 #우리FISA 검색 결과
 - [백엔드·풀스택 개발자 로드맵｜Java·Spring Boot·React·AWS부터 실전 프....](https://blog.naver.com/asmyinformation/224463981407)
@@ -29,13 +29,13 @@
 - [<b>우리</b>WON 청년 IT 아카데미｜무료교육·지원조건·취업연계 총정리](https://blog.naver.com/harurealme/224390505639)
 
 ### 🔹 #AI엔지니어링 검색 결과
+- [루프 <b>엔지니어링</b>(Loop Engineering)이란? <b>AI</b>가 스스로 일하고 수정하는 시....](https://blog.naver.com/terienglish/224472298327)
 - [<b>AI</b>가 자꾸 엉뚱하게 일한다면? 초보자도 이해하는 하네스 엔지니어....](https://blog.naver.com/educoding/224468553463)
-- [프롬프트 <b>엔지니어링</b>을 넘어 컨텍스트 <b>엔지니어링</b>으로, 기본이 탄....](https://blog.naver.com/wojjj777/224468237236)
-- [요즘 핫한 리버스<b>엔지니어링</b> <b>AI</b>, REA 사용법 정리](https://blog.naver.com/upgrade_korean/224466317996)
+- [컨텍스트 <b>엔지니어링</b>이란 자료를 더 넣어도 <b>AI</b>가 엉뚱하게 답하는 ....](https://blog.naver.com/namiri_ai/224462888084)
 
 ### 🔹 #K디지털트레이닝 검색 결과
-- [<b>K</b>-<b>디지털 트레이닝</b> 신청방법과 지원금](https://blog.naver.com/tal14/224465221636)
 - [<b>K디지털트레이닝</b> 교육 수료 후 한번 더 수강 가능한 IT국비 수업](https://blog.naver.com/iealj0a/224471719047)
+- [<b>K</b>-<b>디지털 트레이닝</b> 신청방법과 지원금](https://blog.naver.com/tal14/224465221636)
 - [IT 취업을 준비한다면 <b>K</b>-<b>디지털 트레이닝</b>은 어떻게 신청할까?(AI·빅....](https://blog.naver.com/sangsaenglifelab/224469269730)
 
 ### 🔹 #우리에프아이에스 검색 결과
@@ -45,5 +45,5 @@
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
-- [컴퓨터공학과 <b>소프트웨어</b>학과 대학 입결 순위 정리](https://blog.naver.com/doublepapa/224409572504)
-- [인천 송도<b>글로벌</b><b>캠퍼스</b> 한국뉴욕주립대 스토니브룩 vs 유타대학교 ....](https://blog.naver.com/oilan/224420108751)
+- [[인천<b>글로벌</b><b>캠퍼스</b>(IGC)] SUNY Korea 스토니브룩 송도 전공 살펴보기 : ....](https://blog.naver.com/englishus/224471627963)
+- [[IT Trend] 비트코인과 AI, 전기를 두고 만나다](https://blog.naver.com/globalsoftwarecampus/224467070864)
