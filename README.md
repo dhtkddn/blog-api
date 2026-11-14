@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-14 14:03:01**
+마지막 업데이트: **📅 2026-11-14 18:59:57**
 
 ---
 
@@ -29,14 +29,14 @@
 - [<b>우리</b>WON 청년 IT 아카데미｜무료교육·지원조건·취업연계 총정리](https://blog.naver.com/harurealme/224390505639)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [<b>AI</b> 브리핑.21 — &quot;프롬프트는 길어졌는데, 왜 결과물은 제자리일까?&quot; :....](https://blog.naver.com/humi09/224477169650)
 - [루프 <b>엔지니어링</b>(Loop Engineering)이란? <b>AI</b>가 스스로 일하고 수정하는 시....](https://blog.naver.com/terienglish/224472298327)
+- [<b>AI</b> 브리핑.21 — &quot;프롬프트는 길어졌는데, 왜 결과물은 제자리일까?&quot; :....](https://blog.naver.com/humi09/224477169650)
 - [<b>AI</b>가 자꾸 엉뚱하게 일한다면? 초보자도 이해하는 하네스 엔지니어....](https://blog.naver.com/educoding/224468553463)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 교육 수료 후 한번 더 수강 가능한 IT국비 수업](https://blog.naver.com/iealj0a/224471719047)
 - [<b>K</b>-<b>디지털 트레이닝</b> 신청방법과 지원금](https://blog.naver.com/tal14/224465221636)
-- [IT 취업을 준비한다면 <b>K</b>-<b>디지털 트레이닝</b>은 어떻게 신청할까?(AI·빅....](https://blog.naver.com/sangsaenglifelab/224469269730)
+- [<b>K</b>-<b>디지털 트레이닝</b> 정리｜수강료 90% 지원, 월 최대 20만 원 장려금·....](https://blog.naver.com/reason___h/224467090804)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [2026 <b>우리</b>금융그룹 연봉 및 평점,복지, 직무별 면접기출(서류, 인적성....](https://blog.naver.com/branderq/224463113760)
