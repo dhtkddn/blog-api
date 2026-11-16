@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-16 07:23:38**
+마지막 업데이트: **📅 2026-11-16 17:10:53**
 
 ---
 
@@ -29,14 +29,14 @@
 - [<b>우리</b>은행 채용공고 및 지원전략](https://blog.naver.com/neulbocoach/224395023777)
 
 ### 🔹 #AI엔지니어링 검색 결과
+- [<b>AI</b> 코딩 에이전트의'하네스 <b>엔지니어링</b>'](https://blog.naver.com/aragon_1000an/224473978727)
 - [광교<b>AI</b>프롬프트<b>엔지니어링</b>학원, 프롬프트 <b>엔지니어링</b>이란, 비전공....](https://blog.naver.com/beodeul_lim/224475583276)
 - [루프 <b>엔지니어링</b>(Loop Engineering)이란? <b>AI</b>가 스스로 일하고 수정하는 시....](https://blog.naver.com/terienglish/224472298327)
-- [<b>AI</b> 코딩 에이전트의'하네스 <b>엔지니어링</b>'](https://blog.naver.com/aragon_1000an/224473978727)
 
 ### 🔹 #K디지털트레이닝 검색 결과
+- [<b>K디지털트레이닝</b> 훈련장려금, 출석률 80% 기준으로 계산해 보기](https://blog.naver.com/edu_kdt/224478955388)
 - [<b>K디지털트레이닝</b> 2026, 자기부담금과 훈련장려금 조건](https://blog.naver.com/mincholee_/224478143052)
 - [<b>K디지털트레이닝</b> 교육 수료 후 한번 더 수강 가능한 IT국비 수업](https://blog.naver.com/iealj0a/224471719047)
-- [<b>K</b>-<b>디지털 트레이닝</b> 신청방법과 지원금](https://blog.naver.com/tal14/224465221636)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
@@ -44,6 +44,6 @@
 - [2026 <b>우리</b>금융그룹 연봉 및 평점,복지, 직무별 면접기출(서류, 인적성....](https://blog.naver.com/branderq/224463113760)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [[IT Trend] 응급실 혼잡 예측부터 병상 배정까지, 병원 운영 AI의 모든 ....](https://blog.naver.com/globalsoftwarecampus/224479207713)
 - [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
 - [[인천<b>글로벌</b><b>캠퍼스</b>(IGC)] SUNY Korea 스토니브룩 송도 전공 살펴보기 : ....](https://blog.naver.com/englishus/224471627963)
+- [[GSC Tip] 종이를 안 쓰면 친환경?](https://blog.naver.com/globalsoftwarecampus/224467282044)
