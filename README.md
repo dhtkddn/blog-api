@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-17 08:30:08**
+마지막 업데이트: **📅 2026-11-17 17:45:41**
 
 ---
 
@@ -19,8 +19,8 @@
 ## 📝 최근 블로그 검색 결과
 
 ### 🔹 #우리FIS아카데미 검색 결과
-- [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
 - [<b>우리</b>금융그룹 모바일센터 설치 방법과 <b>우리</b>WON뱅킹 차이, 계열사 6곳....](https://blog.naver.com/rarara412/224424916427)
+- [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
 - [왕숙 <b>우리</b>금융 AI 디지털 유니버스, 착공 언제?](https://blog.naver.com/shimwom/224441100826)
 
 ### 🔹 #우리FISA 검색 결과
@@ -29,14 +29,14 @@
 - [<b>우리</b>은행 채용공고 및 지원전략](https://blog.naver.com/neulbocoach/224395023777)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [루프 <b>엔지니어링</b>(Loop Engineering)이란? <b>AI</b>가 스스로 일하고 수정하는 시....](https://blog.naver.com/terienglish/224472298327)
-- [광교<b>AI</b>프롬프트<b>엔지니어링</b>학원, 프롬프트 <b>엔지니어링</b>이란, 비전공....](https://blog.naver.com/beodeul_lim/224475583276)
 - [<b>AI</b> 코딩 에이전트의'하네스 <b>엔지니어링</b>'](https://blog.naver.com/aragon_1000an/224473978727)
+- [<b>AI</b>가 자꾸 엉뚱하게 일한다면? 초보자도 이해하는 하네스 엔지니어....](https://blog.naver.com/educoding/224468553463)
+- [광교<b>AI</b>프롬프트<b>엔지니어링</b>학원, 프롬프트 <b>엔지니어링</b>이란, 비전공....](https://blog.naver.com/beodeul_lim/224475583276)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 훈련장려금, 출석률 80% 기준으로 계산해 보기](https://blog.naver.com/edu_kdt/224478955388)
-- [<b>K디지털트레이닝</b> 교육 수료 후 한번 더 수강 가능한 IT국비 수업](https://blog.naver.com/iealj0a/224471719047)
 - [<b>K디지털트레이닝</b> 2026, 자기부담금과 훈련장려금 조건](https://blog.naver.com/mincholee_/224478143052)
+- [<b>K디지털트레이닝</b> 교육 수료 후 한번 더 수강 가능한 IT국비 수업](https://blog.naver.com/iealj0a/224471719047)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
@@ -44,6 +44,6 @@
 - [2026 <b>우리</b>금융그룹 연봉 및 평점,복지, 직무별 면접기출(서류, 인적성....](https://blog.naver.com/branderq/224463113760)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [[인천<b>글로벌</b><b>캠퍼스</b>(IGC)] SUNY Korea 스토니브룩 송도 전공 살펴보기 : ....](https://blog.naver.com/englishus/224471627963)
+- [[GSC Tip] 요즘 전화번호, 몇 개 외우세요?](https://blog.naver.com/globalsoftwarecampus/224480700140)
 - [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
-- [[IT Trend] 비트코인과 AI, 전기를 두고 만나다](https://blog.naver.com/globalsoftwarecampus/224467070864)
+- [[인천<b>글로벌</b><b>캠퍼스</b>(IGC)] SUNY Korea 스토니브룩 송도 전공 살펴보기 : ....](https://blog.naver.com/englishus/224471627963)
