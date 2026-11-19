@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-18 22:10:38**
+마지막 업데이트: **📅 2026-11-19 03:18:46**
 
 ---
 
@@ -26,7 +26,7 @@
 ### 🔹 #우리FISA 검색 결과
 - [백엔드·풀스택 개발자 로드맵｜Java·Spring Boot·React·AWS부터 실전 프....](https://blog.naver.com/asmyinformation/224463981407)
 - [<b>우리</b>은행 채용공고 및 지원전략](https://blog.naver.com/neulbocoach/224395023777)
-- [<b>우리</b>WON 청년 IT 아카데미｜무료교육·지원조건·취업연계 총정리](https://blog.naver.com/harurealme/224390505639)
+- [<b>우리</b> FIS 아카데미 (<b>우리</b> FlSA) AI 엔지니어링 25주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224322835509)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [광교<b>AI</b>프롬프트<b>엔지니어링</b>학원, 프롬프트 <b>엔지니어링</b>이란, 비전공....](https://blog.naver.com/beodeul_lim/224475583276)
