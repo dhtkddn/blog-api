@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-20 17:16:18**
+마지막 업데이트: **📅 2026-11-20 23:04:46**
 
 ---
 
@@ -20,8 +20,8 @@
 
 ### 🔹 #우리FIS아카데미 검색 결과
 - [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
-- [[IT Trend] 챗봇은 거들뿐, 금융 AI의 진짜 무대는 따로 있다](https://blog.naver.com/globalsoftwarecampus/224483655770)
 - [<b>우리</b>금융그룹 모바일센터 설치 방법과 <b>우리</b>WON뱅킹 차이, 계열사 6곳....](https://blog.naver.com/rarara412/224424916427)
+- [[IT Trend] 챗봇은 거들뿐, 금융 AI의 진짜 무대는 따로 있다](https://blog.naver.com/globalsoftwarecampus/224483655770)
 
 ### 🔹 #우리FISA 검색 결과
 - [[IT Trend] 챗봇은 거들뿐, 금융 AI의 진짜 무대는 따로 있다](https://blog.naver.com/globalsoftwarecampus/224483655770)
@@ -45,5 +45,5 @@
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [인천<b>글로벌</b><b>캠퍼스</b> 입학 준비, 지원 전 꼭 확인할 3가지｜전공·내신....](https://blog.naver.com/thehaimuhak/224483450336)
-- [[GSC Tip] 요즘 전화번호, 몇 개 외우세요?](https://blog.naver.com/globalsoftwarecampus/224480700140)
 - [판교테크노밸리 사무실 임대, 스타트업<b>캠퍼스</b>·<b>글로벌</b>R&amp;D센터에 우....](https://blog.naver.com/museo1004/224484890237)
+- [[GSC Tip] 요즘 전화번호, 몇 개 외우세요?](https://blog.naver.com/globalsoftwarecampus/224480700140)
