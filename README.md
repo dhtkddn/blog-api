@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-20 01:25:35**
+마지막 업데이트: **📅 2026-11-20 08:42:42**
 
 ---
 
@@ -29,9 +29,9 @@
 - [<b>우리</b> FIS 아카데미 (<b>우리</b> FlSA) AI 엔지니어링 25주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224322835509)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [광교<b>AI</b>프롬프트<b>엔지니어링</b>학원, 프롬프트 <b>엔지니어링</b>이란, 비전공....](https://blog.naver.com/beodeul_lim/224475583276)
+- [[리버스 <b>엔지니어링</b> <b>AI</b>] 깃허브 REA 사용방법, 클로드 코드 MCP로 웹사....](https://blog.naver.com/claudewithpaul/224481512266)
+- [하네스 <b>엔지니어링</b> 뜻과 구성요소 — <b>AI</b> 하네스 (1/2)](https://blog.naver.com/subhok/224479852499)
 - [<b>AI</b> 브리핑.21 — &quot;프롬프트는 길어졌는데, 왜 결과물은 제자리일까?&quot; :....](https://blog.naver.com/humi09/224477169650)
-- [루프 <b>엔지니어링</b>(Loop Engineering)이란? <b>AI</b>가 스스로 일하고 수정하는 시....](https://blog.naver.com/terienglish/224472298327)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 훈련장려금, 출석률 80% 기준으로 계산해 보기](https://blog.naver.com/edu_kdt/224478955388)
@@ -46,4 +46,4 @@
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [인천<b>글로벌</b><b>캠퍼스</b> 입학 준비, 지원 전 꼭 확인할 3가지｜전공·내신....](https://blog.naver.com/thehaimuhak/224483450336)
 - [[GSC Tip] 요즘 전화번호, 몇 개 외우세요?](https://blog.naver.com/globalsoftwarecampus/224480700140)
-- [[2027 고려대 세종<b>캠퍼스</b> 편입] 영어 필답고사 폐지? 전형 변경부터 20....](https://blog.naver.com/jaefenglish/224435434535)
+- [판교테크노밸리 사무실 임대, 스타트업<b>캠퍼스</b>·<b>글로벌</b>R&amp;D센터에 우....](https://blog.naver.com/museo1004/224484890237)
