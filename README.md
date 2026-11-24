@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-24 11:32:44**
+마지막 업데이트: **📅 2026-11-24 21:27:26**
 
 ---
 
@@ -21,17 +21,17 @@
 ### 🔹 #우리FIS아카데미 검색 결과
 - [<b>우리</b>금융그룹 모바일센터 설치 방법과 <b>우리</b>WON뱅킹 차이, 계열사 6곳....](https://blog.naver.com/rarara412/224424916427)
 - [2026년 <b>우리</b>은행 채용 하반기 신입행원 TECH 부문 지원자격·전형일정....](https://blog.naver.com/ttpn2001/224392199399)
-- [[IT Trend] 챗봇은 거들뿐, 금융 AI의 진짜 무대는 따로 있다](https://blog.naver.com/globalsoftwarecampus/224483655770)
+- [<b>우리</b>금융, 국내 최대 금융 데이터센터 구축 프로젝트분석](https://blog.naver.com/unionsearch777/224443502147)
 
 ### 🔹 #우리FISA 검색 결과
 - [백엔드·풀스택 개발자 로드맵｜Java·Spring Boot·React·AWS부터 실전 프....](https://blog.naver.com/asmyinformation/224463981407)
 - [[IT Trend] 챗봇은 거들뿐, 금융 AI의 진짜 무대는 따로 있다](https://blog.naver.com/globalsoftwarecampus/224483655770)
-- [<b>우리</b> FIS 아카데미 (<b>우리</b> FlSA) AI 엔지니어링 25주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224322835509)
+- [알바노 시스템이 뭐예요? 조정 코스의 빨간 부표, 2000m 레인의 비밀](https://blog.naver.com/gitante/224485812544)
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [[리버스 <b>엔지니어링</b> <b>AI</b>] 깃허브 REA 사용방법, 클로드 코드 MCP로 웹사....](https://blog.naver.com/claudewithpaul/224481512266)
-- [<b>AI</b> 브리핑.21 — &quot;프롬프트는 길어졌는데, 왜 결과물은 제자리일까?&quot; :....](https://blog.naver.com/humi09/224477169650)
 - [하네스 <b>엔지니어링</b> 뜻과 구성요소 — <b>AI</b> 하네스 (1/2)](https://blog.naver.com/subhok/224479852499)
+- [<b>AI</b> 에이전트란? 프롬프트·하네스·루프 <b>엔지니어링</b> 차이 쉽게 이해....](https://blog.naver.com/edenplanit/224454400907)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 훈련장려금, 출석률 80% 기준으로 계산해 보기](https://blog.naver.com/edu_kdt/224478955388)
@@ -41,9 +41,9 @@
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
 - [<b>우리</b>WON 청년 IT 아카데미｜금융IT·AI 600시간 교육·지원금 총정리](https://blog.naver.com/smilenaso/224401636834)
-- [<b>우리</b>은행 스위프트코드(Swift code) 및 지점코드](https://blog.naver.com/sykwang/224463487356)
+- [2026 <b>우리</b>금융그룹 연봉 및 평점,복지, 직무별 면접기출(서류, 인적성....](https://blog.naver.com/branderq/224463113760)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [인천<b>글로벌</b><b>캠퍼스</b> 입학 준비, 지원 전 꼭 확인할 3가지｜전공·내신....](https://blog.naver.com/thehaimuhak/224483450336)
 - [송도<b>글로벌</b><b>캠퍼스</b> 한국유타대학교 전공 완벽 정리, 나에게 맞는 학....](https://blog.naver.com/englishus/224488190680)
-- [판교테크노밸리 사무실 임대, 스타트업<b>캠퍼스</b>·<b>글로벌</b>R&amp;D센터에 우....](https://blog.naver.com/museo1004/224484890237)
+- [2026 중앙대학교 서울<b>캠퍼스</b> 정시등급 총정리, 경쟁률, 정시컷, 충원....](https://blog.naver.com/demianxyz/224484844892)
