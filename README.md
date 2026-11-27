@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-27 05:12:34**
+마지막 업데이트: **📅 2026-11-27 14:59:39**
 
 ---
 
@@ -26,12 +26,12 @@
 ### 🔹 #우리FISA 검색 결과
 - [백엔드·풀스택 개발자 로드맵｜Java·Spring Boot·React·AWS부터 실전 프....](https://blog.naver.com/asmyinformation/224463981407)
 - [<b>우리</b> FIS 아카데미 (<b>우리</b> FlSA) AI 엔지니어링 25주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224322835509)
-- [[IT Trend] 챗봇은 거들뿐, 금융 AI의 진짜 무대는 따로 있다](https://blog.naver.com/globalsoftwarecampus/224483655770)
+- [<b>우리</b>은행 채용공고 및 지원전략](https://blog.naver.com/neulbocoach/224395023777)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [[클로드 MCP]깃허브 REA 사용방법, 리버스 <b>엔지니어링</b> <b>AI</b>로 웹사이트·....](https://blog.naver.com/claudewithpaul/224481512266)
-- [하네스 <b>엔지니어링</b>으로 완성하는 에이전틱 <b>AI</b> 스터디 #1. 1장 에이전....](https://blog.naver.com/clarkesquare/224489090986)
 - [프롬프트 <b>엔지니어링</b>, 컨텍스트 <b>엔지니어링</b>, 하네스 <b>엔지니어링</b>이....](https://blog.naver.com/nabilera1/224490606955)
+- [<b>AI</b> 에이전트란? 프롬프트·하네스·루프 <b>엔지니어링</b> 차이 쉽게 이해....](https://blog.naver.com/edenplanit/224454400907)
+- [하네스 <b>엔지니어링</b>으로 완성하는 에이전틱 <b>AI</b> 스터디 #1. 1장 에이전....](https://blog.naver.com/clarkesquare/224489090986)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 훈련장려금, 출석률 80% 기준으로 계산해 보기](https://blog.naver.com/edu_kdt/224478955388)
@@ -41,9 +41,9 @@
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
 - [<b>우리</b>WON 청년 IT 아카데미｜금융IT·AI 600시간 교육·지원금 총정리](https://blog.naver.com/smilenaso/224401636834)
-- [<b>우리</b>WON 청년IT 아카데미 1기 발대식 후기 | 금융 IT를 배우는 4개월의 ....](https://blog.naver.com/chowhatwhat/224395187139)
+- [2026 <b>우리</b>금융그룹 연봉 및 평점,복지, 직무별 면접기출(서류, 인적성....](https://blog.naver.com/branderq/224463113760)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
-- [송도<b>글로벌</b><b>캠퍼스</b> 한국유타대학교 전공 완벽 정리, 나에게 맞는 학....](https://blog.naver.com/englishus/224488190680)
 - [인천<b>글로벌</b><b>캠퍼스</b> 입학 준비, 지원 전 꼭 확인할 3가지｜전공·내신....](https://blog.naver.com/thehaimuhak/224483450336)
-- [판교테크노밸리 사무실 임대, 스타트업<b>캠퍼스</b>·<b>글로벌</b>R&amp;D센터에 우....](https://blog.naver.com/museo1004/224484890237)
+- [송도<b>글로벌</b><b>캠퍼스</b> 한국유타대학교 전공 완벽 정리, 나에게 맞는 학....](https://blog.naver.com/englishus/224488190680)
+- [[GSC Tip] 요즘 전화번호, 몇 개 외우세요?](https://blog.naver.com/globalsoftwarecampus/224480700140)
