@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-27 14:59:39**
+마지막 업데이트: **📅 2026-11-27 23:13:46**
 
 ---
 
@@ -26,12 +26,12 @@
 ### 🔹 #우리FISA 검색 결과
 - [백엔드·풀스택 개발자 로드맵｜Java·Spring Boot·React·AWS부터 실전 프....](https://blog.naver.com/asmyinformation/224463981407)
 - [<b>우리</b> FIS 아카데미 (<b>우리</b> FlSA) AI 엔지니어링 25주 차 정리 및 회고](https://blog.naver.com/live_as_usual/224322835509)
-- [<b>우리</b>은행 채용공고 및 지원전략](https://blog.naver.com/neulbocoach/224395023777)
+- [[IT Trend] 챗봇은 거들뿐, 금융 AI의 진짜 무대는 따로 있다](https://blog.naver.com/globalsoftwarecampus/224483655770)
 
 ### 🔹 #AI엔지니어링 검색 결과
-- [프롬프트 <b>엔지니어링</b>, 컨텍스트 <b>엔지니어링</b>, 하네스 <b>엔지니어링</b>이....](https://blog.naver.com/nabilera1/224490606955)
+- [[클로드 MCP]깃허브 REA 사용방법, 리버스 <b>엔지니어링</b> <b>AI</b>로 웹사이트·....](https://blog.naver.com/claudewithpaul/224481512266)
 - [<b>AI</b> 에이전트란? 프롬프트·하네스·루프 <b>엔지니어링</b> 차이 쉽게 이해....](https://blog.naver.com/edenplanit/224454400907)
-- [하네스 <b>엔지니어링</b>으로 완성하는 에이전틱 <b>AI</b> 스터디 #1. 1장 에이전....](https://blog.naver.com/clarkesquare/224489090986)
+- [하네스 <b>엔지니어링</b>(Harness Engineering) 뜻과 원리 : 프롬프트 엔지니어....](https://blog.naver.com/xtlwcx/224483936208)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 훈련장려금, 출석률 80% 기준으로 계산해 보기](https://blog.naver.com/edu_kdt/224478955388)
