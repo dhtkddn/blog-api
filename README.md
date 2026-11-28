@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-27 23:13:46**
+마지막 업데이트: **📅 2026-11-28 04:43:32**
 
 ---
 
@@ -29,19 +29,19 @@
 - [[IT Trend] 챗봇은 거들뿐, 금융 AI의 진짜 무대는 따로 있다](https://blog.naver.com/globalsoftwarecampus/224483655770)
 
 ### 🔹 #AI엔지니어링 검색 결과
+- [프롬프트 <b>엔지니어링</b>, 컨텍스트 <b>엔지니어링</b>, 하네스 <b>엔지니어링</b>이....](https://blog.naver.com/nabilera1/224490606955)
 - [[클로드 MCP]깃허브 REA 사용방법, 리버스 <b>엔지니어링</b> <b>AI</b>로 웹사이트·....](https://blog.naver.com/claudewithpaul/224481512266)
 - [<b>AI</b> 에이전트란? 프롬프트·하네스·루프 <b>엔지니어링</b> 차이 쉽게 이해....](https://blog.naver.com/edenplanit/224454400907)
-- [하네스 <b>엔지니어링</b>(Harness Engineering) 뜻과 원리 : 프롬프트 엔지니어....](https://blog.naver.com/xtlwcx/224483936208)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K디지털트레이닝</b> 훈련장려금, 출석률 80% 기준으로 계산해 보기](https://blog.naver.com/edu_kdt/224478955388)
-- [<b>K디지털트레이닝</b> 신청방법, 비전공자도 AI·IT 교육을 받을 수 있을까....](https://blog.naver.com/mentor_school/224486323117)
 - [<b>K</b>-<b>디지털 트레이닝</b> 신청 방법｜국민내일배움카드로 듣는 조건, 훈련....](https://blog.naver.com/hellossun0612/224488791880)
+- [<b>K디지털트레이닝</b> 신청방법, 비전공자도 AI·IT 교육을 받을 수 있을까....](https://blog.naver.com/mentor_school/224486323117)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
 - [<b>우리</b>WON 청년 IT 아카데미｜금융IT·AI 600시간 교육·지원금 총정리](https://blog.naver.com/smilenaso/224401636834)
-- [2026 <b>우리</b>금융그룹 연봉 및 평점,복지, 직무별 면접기출(서류, 인적성....](https://blog.naver.com/branderq/224463113760)
+- [<b>우리</b>WON 청년IT 아카데미 1기 발대식 후기 | 금융 IT를 배우는 4개월의 ....](https://blog.naver.com/chowhatwhat/224395187139)
 
 ### 🔹 #글로벌소프트웨어캠퍼스 검색 결과
 - [인천<b>글로벌</b><b>캠퍼스</b> 입학 준비, 지원 전 꼭 확인할 3가지｜전공·내신....](https://blog.naver.com/thehaimuhak/224483450336)
