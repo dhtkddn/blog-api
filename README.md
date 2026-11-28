@@ -2,7 +2,7 @@
 
 이 페이지는 GitHub Actions를 사용하여 **5분마다 자동 갱신**됩니다.
 
-마지막 업데이트: **📅 2026-11-28 13:36:49**
+마지막 업데이트: **📅 2026-11-28 21:15:40**
 
 ---
 
@@ -30,13 +30,13 @@
 
 ### 🔹 #AI엔지니어링 검색 결과
 - [프롬프트 <b>엔지니어링</b>, 컨텍스트 <b>엔지니어링</b>, 하네스 <b>엔지니어링</b>이....](https://blog.naver.com/nabilera1/224490606955)
+- [[클로드 MCP]깃허브 REA 사용방법, 리버스 <b>엔지니어링</b> <b>AI</b>로 웹사이트·....](https://blog.naver.com/claudewithpaul/224481512266)
 - [하네스 <b>엔지니어링</b> 뜻, 강조해도 <b>AI</b>가 놓치는 규칙은 코드로 막는다](https://blog.naver.com/m84vlog/224492236514)
-- [하네스 <b>엔지니어링</b>(Harness Engineering) 뜻과 원리 : 프롬프트 엔지니어....](https://blog.naver.com/xtlwcx/224483936208)
 
 ### 🔹 #K디지털트레이닝 검색 결과
 - [<b>K</b>-<b>디지털 트레이닝</b> 신청 방법｜국민내일배움카드로 듣는 조건, 훈련....](https://blog.naver.com/hellossun0612/224488791880)
-- [<b>K디지털트레이닝</b> 신청방법, 비전공자도 AI·IT 교육을 받을 수 있을까....](https://blog.naver.com/mentor_school/224486323117)
-- [<b>K</b>-<b>디지털 트레이닝</b>, 내일배움카드로 어떻게 신청하나요?](https://blog.naver.com/infodamoab/224492617649)
+- [<b>K</b>-<b>디지털 트레이닝</b> AI 캠퍼스란? 국비지원 AI 교육부터 신청 방법까지](https://blog.naver.com/exchange_/224491870680)
+- [<b>K디지털트레이닝</b> 뜻과 신청방법, 일반 국비와 차이는?](https://blog.naver.com/edu_kdt/224483051242)
 
 ### 🔹 #우리에프아이에스 검색 결과
 - [<b>우리에프아이에스</b>(<b>우리</b>FIS)｜2026년 하반기 보험사업 부문 경력 채용,....](https://blog.naver.com/ddodo9090/224449594256)
